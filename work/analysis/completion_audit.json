@@ -1,0 +1,78 @@
+{
+  "raw_samples": {
+    "DeepSeek": {
+      "files": 36,
+      "missing": [],
+      "invalid": [],
+      "valid": true
+    },
+    "豆包": {
+      "files": 36,
+      "missing": [],
+      "invalid": [],
+      "valid": true
+    },
+    "腾讯元宝": {
+      "files": 36,
+      "missing": [],
+      "invalid": [],
+      "valid": true
+    },
+    "文心一言": {
+      "files": 36,
+      "missing": [],
+      "invalid": [],
+      "valid": true
+    },
+    "千问": {
+      "files": 36,
+      "missing": [],
+      "invalid": [],
+      "valid": true
+    }
+  },
+  "raw_sample_total": 180,
+  "raw_samples_valid": true,
+  "recommendation_rows": 757,
+  "unique_brands": 105,
+  "support_counts": {
+    "未核验": 415,
+    "有效": 192,
+    "不支持": 119,
+    "部分支持": 31
+  },
+  "candidate_pages": 135,
+  "opened_candidate_pages": 126,
+  "unique_citations": 202,
+  "workbook": {
+    "exists": true,
+    "size": 284136,
+    "zip_error": null,
+    "sheets": [
+      "总览",
+      "五赛道Top10",
+      "品牌统计",
+      "平台对比",
+      "楼盘场景",
+      "来源质量",
+      "180题明细",
+      "引用核验",
+      "方法与限制"
+    ],
+    "detail_rows_including_title_and_header": 760,
+    "brand_rows_including_title_and_header": 108,
+    "citation_rows_including_title_and_header": 138,
+    "formula_count": 9
+  },
+  "report": {
+    "exists": true,
+    "size": 219924,
+    "zip_error": null,
+    "paragraphs": 119,
+    "tables": 21,
+    "missing_sections": [],
+    "pdf_exists": true,
+    "pdf_size": 873287
+  },
+  "complete": true
+}

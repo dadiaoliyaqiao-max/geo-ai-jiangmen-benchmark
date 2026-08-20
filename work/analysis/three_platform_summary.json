@@ -1,0 +1,3301 @@
+{
+  "sample_count": 108,
+  "recommendation_rows": 465,
+  "unique_brands": 74,
+  "overall_top20": [
+    {
+      "brand": "华浔品味装饰",
+      "count": 46,
+      "average_rank": 2.57,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端装修",
+          14
+        ],
+        [
+          "江门装修",
+          12
+        ],
+        [
+          "江门全屋设计",
+          12
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "星艺装饰",
+      "count": 42,
+      "average_rank": 2.21,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门装修",
+          14
+        ],
+        [
+          "江门高端装修",
+          13
+        ],
+        [
+          "江门全屋设计",
+          10
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "名匠装饰",
+      "count": 38,
+      "average_rank": 2.45,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门装修",
+          14
+        ],
+        [
+          "江门高端装修",
+          13
+        ],
+        [
+          "江门全屋设计",
+          6
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "健威家居",
+      "count": 37,
+      "average_rank": 1.76,
+      "platforms": [
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 2,
+      "tracks": [
+        [
+          "江门全屋定制",
+          10
+        ],
+        [
+          "江门高端定制品牌",
+          8
+        ],
+        [
+          "江门全屋设计",
+          8
+        ]
+      ],
+      "scope": "江门本地品牌"
+    },
+    {
+      "brand": "索菲亚",
+      "count": 37,
+      "average_rank": 2.49,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门全屋定制",
+          14
+        ],
+        [
+          "楼盘场景",
+          9
+        ],
+        [
+          "江门高端定制品牌",
+          7
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "欧派",
+      "count": 36,
+      "average_rank": 2.69,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门全屋定制",
+          16
+        ],
+        [
+          "楼盘场景",
+          8
+        ],
+        [
+          "江门高端定制品牌",
+          6
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "劳卡",
+      "count": 36,
+      "average_rank": 3.03,
+      "platforms": [
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 2,
+      "tracks": [
+        [
+          "江门装修",
+          10
+        ],
+        [
+          "江门全屋设计",
+          9
+        ],
+        [
+          "江门全屋定制",
+          5
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "尚品宅配",
+      "count": 16,
+      "average_rank": 3.44,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门全屋定制",
+          7
+        ],
+        [
+          "楼盘场景",
+          4
+        ],
+        [
+          "江门全屋设计",
+          3
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "盛世周木匠",
+      "count": 15,
+      "average_rank": 2.93,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端定制品牌",
+          8
+        ],
+        [
+          "江门全屋定制",
+          3
+        ],
+        [
+          "江门高端装修",
+          2
+        ]
+      ],
+      "scope": "江门本地品牌"
+    },
+    {
+      "brand": "名雕装饰",
+      "count": 15,
+      "average_rank": 3.0,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端装修",
+          7
+        ],
+        [
+          "江门装修",
+          3
+        ],
+        [
+          "楼盘场景",
+          3
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "居众装饰",
+      "count": 12,
+      "average_rank": 2.42,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端装修",
+          7
+        ],
+        [
+          "江门装修",
+          2
+        ],
+        [
+          "江门全屋设计",
+          2
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "佰怡家",
+      "count": 7,
+      "average_rank": 3.0,
+      "platforms": [
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 2,
+      "tracks": [
+        [
+          "江门全屋定制",
+          2
+        ],
+        [
+          "江门高端定制品牌",
+          2
+        ],
+        [
+          "江门全屋设计",
+          2
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "博洛尼",
+      "count": 7,
+      "average_rank": 3.29,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端定制品牌",
+          5
+        ],
+        [
+          "江门全屋定制",
+          1
+        ],
+        [
+          "楼盘场景",
+          1
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "斯米帝",
+      "count": 6,
+      "average_rank": 3.17,
+      "platforms": [
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 2,
+      "tracks": [
+        [
+          "江门全屋定制",
+          4
+        ],
+        [
+          "江门高端定制品牌",
+          2
+        ]
+      ],
+      "scope": "江门本地品牌"
+    },
+    {
+      "brand": "森之原装饰",
+      "count": 6,
+      "average_rank": 3.17,
+      "platforms": [
+        "腾讯元宝"
+      ],
+      "platform_count": 1,
+      "tracks": [
+        [
+          "江门高端装修",
+          3
+        ],
+        [
+          "江门装修",
+          2
+        ],
+        [
+          "江门全屋设计",
+          1
+        ]
+      ],
+      "scope": "江门本地品牌"
+    },
+    {
+      "brand": "华美乐装饰",
+      "count": 6,
+      "average_rank": 3.83,
+      "platforms": [
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 2,
+      "tracks": [
+        [
+          "江门装修",
+          5
+        ],
+        [
+          "江门高端装修",
+          1
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "华宁装饰",
+      "count": 5,
+      "average_rank": 2.4,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝"
+      ],
+      "platform_count": 2,
+      "tracks": [
+        [
+          "江门装修",
+          4
+        ],
+        [
+          "江门全屋设计",
+          1
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "威法",
+      "count": 5,
+      "average_rank": 2.4,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端定制品牌",
+          4
+        ],
+        [
+          "江门全屋定制",
+          1
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "中域设计装饰",
+      "count": 5,
+      "average_rank": 3.0,
+      "platforms": [
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 2,
+      "tracks": [
+        [
+          "江门高端装修",
+          2
+        ],
+        [
+          "江门全屋设计",
+          2
+        ],
+        [
+          "江门装修",
+          1
+        ]
+      ],
+      "scope": "江门本地品牌"
+    },
+    {
+      "brand": "维意定制",
+      "count": 5,
+      "average_rank": 3.2,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门全屋定制",
+          3
+        ],
+        [
+          "江门全屋设计",
+          1
+        ],
+        [
+          "楼盘场景",
+          1
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    }
+  ],
+  "brands_on_all_three_platforms": [
+    {
+      "brand": "华浔品味装饰",
+      "count": 46,
+      "average_rank": 2.57,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端装修",
+          14
+        ],
+        [
+          "江门装修",
+          12
+        ],
+        [
+          "江门全屋设计",
+          12
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "星艺装饰",
+      "count": 42,
+      "average_rank": 2.21,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门装修",
+          14
+        ],
+        [
+          "江门高端装修",
+          13
+        ],
+        [
+          "江门全屋设计",
+          10
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "名匠装饰",
+      "count": 38,
+      "average_rank": 2.45,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门装修",
+          14
+        ],
+        [
+          "江门高端装修",
+          13
+        ],
+        [
+          "江门全屋设计",
+          6
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "索菲亚",
+      "count": 37,
+      "average_rank": 2.49,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门全屋定制",
+          14
+        ],
+        [
+          "楼盘场景",
+          9
+        ],
+        [
+          "江门高端定制品牌",
+          7
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "欧派",
+      "count": 36,
+      "average_rank": 2.69,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门全屋定制",
+          16
+        ],
+        [
+          "楼盘场景",
+          8
+        ],
+        [
+          "江门高端定制品牌",
+          6
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "尚品宅配",
+      "count": 16,
+      "average_rank": 3.44,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门全屋定制",
+          7
+        ],
+        [
+          "楼盘场景",
+          4
+        ],
+        [
+          "江门全屋设计",
+          3
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "盛世周木匠",
+      "count": 15,
+      "average_rank": 2.93,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端定制品牌",
+          8
+        ],
+        [
+          "江门全屋定制",
+          3
+        ],
+        [
+          "江门高端装修",
+          2
+        ]
+      ],
+      "scope": "江门本地品牌"
+    },
+    {
+      "brand": "名雕装饰",
+      "count": 15,
+      "average_rank": 3.0,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端装修",
+          7
+        ],
+        [
+          "江门装修",
+          3
+        ],
+        [
+          "楼盘场景",
+          3
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "居众装饰",
+      "count": 12,
+      "average_rank": 2.42,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端装修",
+          7
+        ],
+        [
+          "江门装修",
+          2
+        ],
+        [
+          "江门全屋设计",
+          2
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "博洛尼",
+      "count": 7,
+      "average_rank": 3.29,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端定制品牌",
+          5
+        ],
+        [
+          "江门全屋定制",
+          1
+        ],
+        [
+          "楼盘场景",
+          1
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "威法",
+      "count": 5,
+      "average_rank": 2.4,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端定制品牌",
+          4
+        ],
+        [
+          "江门全屋定制",
+          1
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "维意定制",
+      "count": 5,
+      "average_rank": 3.2,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门全屋定制",
+          3
+        ],
+        [
+          "江门全屋设计",
+          1
+        ],
+        [
+          "楼盘场景",
+          1
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "科凡高定",
+      "count": 5,
+      "average_rank": 3.6,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端定制品牌",
+          2
+        ],
+        [
+          "楼盘场景",
+          2
+        ],
+        [
+          "江门全屋定制",
+          1
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "图森",
+      "count": 4,
+      "average_rank": 2.0,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端定制品牌",
+          4
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    },
+    {
+      "brand": "木里木外",
+      "count": 3,
+      "average_rank": 2.67,
+      "platforms": [
+        "DeepSeek",
+        "腾讯元宝",
+        "豆包"
+      ],
+      "platform_count": 3,
+      "tracks": [
+        [
+          "江门高端定制品牌",
+          3
+        ]
+      ],
+      "scope": "全国/跨区域品牌"
+    }
+  ],
+  "platform_stats": {
+    "豆包": {
+      "recommendation_rows": 168,
+      "unique_brands": 33,
+      "average_rank": 2.9,
+      "linked_rows": 168,
+      "effective": 82,
+      "partial": 17,
+      "unsupported": 51,
+      "unverified": 18,
+      "top15": [
+        {
+          "brand": "劳卡",
+          "count": 23,
+          "average_rank": 3.17,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              6
+            ],
+            [
+              "江门全屋设计",
+              5
+            ],
+            [
+              "江门全屋定制",
+              4
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "健威家居",
+          "count": 17,
+          "average_rank": 1.59,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              5
+            ],
+            [
+              "江门高端定制品牌",
+              4
+            ],
+            [
+              "江门全屋设计",
+              4
+            ]
+          ],
+          "scope": "江门本地品牌"
+        },
+        {
+          "brand": "索菲亚",
+          "count": 16,
+          "average_rank": 2.75,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              5
+            ],
+            [
+              "江门高端定制品牌",
+              4
+            ],
+            [
+              "江门全屋设计",
+              3
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "名匠装饰",
+          "count": 15,
+          "average_rank": 2.2,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              5
+            ],
+            [
+              "江门高端装修",
+              5
+            ],
+            [
+              "楼盘场景",
+              3
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "华浔品味装饰",
+          "count": 14,
+          "average_rank": 2.5,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端装修",
+              5
+            ],
+            [
+              "江门装修",
+              4
+            ],
+            [
+              "江门全屋设计",
+              3
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "星艺装饰",
+          "count": 11,
+          "average_rank": 2.82,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              4
+            ],
+            [
+              "江门高端装修",
+              4
+            ],
+            [
+              "楼盘场景",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "欧派",
+          "count": 11,
+          "average_rank": 3.36,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              5
+            ],
+            [
+              "江门高端定制品牌",
+              3
+            ],
+            [
+              "江门装修",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "居众装饰",
+          "count": 8,
+          "average_rank": 1.88,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端装修",
+              4
+            ],
+            [
+              "江门全屋设计",
+              2
+            ],
+            [
+              "江门装修",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "盛世周木匠",
+          "count": 7,
+          "average_rank": 3.14,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端定制品牌",
+              3
+            ],
+            [
+              "江门全屋定制",
+              1
+            ],
+            [
+              "江门装修",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        },
+        {
+          "brand": "佰怡家",
+          "count": 6,
+          "average_rank": 3.33,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              2
+            ],
+            [
+              "江门高端定制品牌",
+              2
+            ],
+            [
+              "江门全屋设计",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "华美乐装饰",
+          "count": 5,
+          "average_rank": 4.4,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              4
+            ],
+            [
+              "江门高端装修",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "斯米帝",
+          "count": 4,
+          "average_rank": 3.5,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              3
+            ],
+            [
+              "江门高端定制品牌",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        },
+        {
+          "brand": "尚品宅配",
+          "count": 4,
+          "average_rank": 3.75,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              1
+            ],
+            [
+              "江门装修",
+              1
+            ],
+            [
+              "江门全屋设计",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "科凡高定",
+          "count": 3,
+          "average_rank": 3.67,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              1
+            ],
+            [
+              "江门高端定制品牌",
+              1
+            ],
+            [
+              "楼盘场景",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "中域设计装饰",
+          "count": 3,
+          "average_rank": 4.0,
+          "platforms": [
+            "豆包"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              1
+            ],
+            [
+              "江门高端装修",
+              1
+            ],
+            [
+              "江门全屋设计",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        }
+      ],
+      "source_types": {
+        "品牌官网": 115,
+        "地图、点评平台": 11,
+        "内容平台": 15,
+        "行业平台": 12,
+        "其他网站": 11,
+        "权威媒体": 1,
+        "软文/转载平台": 1,
+        "企业信息/百科": 2
+      },
+      "local_rows": 36,
+      "national_rows": 131
+    },
+    "DeepSeek": {
+      "recommendation_rows": 141,
+      "unique_brands": 46,
+      "average_rank": 2.6,
+      "linked_rows": 0,
+      "effective": 0,
+      "partial": 0,
+      "unsupported": 0,
+      "unverified": 141,
+      "top15": [
+        {
+          "brand": "星艺装饰",
+          "count": 17,
+          "average_rank": 2.06,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              6
+            ],
+            [
+              "江门高端装修",
+              5
+            ],
+            [
+              "江门全屋设计",
+              5
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "华浔品味装饰",
+          "count": 15,
+          "average_rank": 2.2,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端装修",
+              5
+            ],
+            [
+              "江门全屋设计",
+              4
+            ],
+            [
+              "江门装修",
+              3
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "欧派",
+          "count": 15,
+          "average_rank": 2.4,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              6
+            ],
+            [
+              "楼盘场景",
+              4
+            ],
+            [
+              "江门高端定制品牌",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "索菲亚",
+          "count": 13,
+          "average_rank": 1.69,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              5
+            ],
+            [
+              "楼盘场景",
+              4
+            ],
+            [
+              "江门高端定制品牌",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "名匠装饰",
+          "count": 12,
+          "average_rank": 1.92,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              5
+            ],
+            [
+              "江门高端装修",
+              4
+            ],
+            [
+              "江门全屋设计",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "尚品宅配",
+          "count": 9,
+          "average_rank": 3.11,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              4
+            ],
+            [
+              "江门全屋设计",
+              2
+            ],
+            [
+              "楼盘场景",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "博洛尼",
+          "count": 5,
+          "average_rank": 3.4,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端定制品牌",
+              3
+            ],
+            [
+              "江门全屋定制",
+              1
+            ],
+            [
+              "楼盘场景",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "华宁装饰",
+          "count": 4,
+          "average_rank": 1.75,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              3
+            ],
+            [
+              "江门全屋设计",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "名雕装饰",
+          "count": 4,
+          "average_rank": 2.75,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              1
+            ],
+            [
+              "江门高端装修",
+              1
+            ],
+            [
+              "江门全屋设计",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "九艺装饰",
+          "count": 4,
+          "average_rank": 4.25,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              2
+            ],
+            [
+              "江门高端装修",
+              1
+            ],
+            [
+              "楼盘场景",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        },
+        {
+          "brand": "威法",
+          "count": 3,
+          "average_rank": 1.67,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端定制品牌",
+              2
+            ],
+            [
+              "江门全屋定制",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "图森",
+          "count": 2,
+          "average_rank": 2.0,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端定制品牌",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "维意定制",
+          "count": 2,
+          "average_rank": 2.0,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "M77",
+          "count": 2,
+          "average_rank": 4.0,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端定制品牌",
+              2
+            ]
+          ],
+          "scope": "其他/未判定"
+        },
+        {
+          "brand": "博睿装饰",
+          "count": 2,
+          "average_rank": 4.0,
+          "platforms": [
+            "DeepSeek"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端装修",
+              1
+            ],
+            [
+              "江门全屋设计",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        }
+      ],
+      "source_types": {
+        "未提供链接": 141
+      },
+      "local_rows": 16,
+      "national_rows": 119
+    },
+    "腾讯元宝": {
+      "recommendation_rows": 156,
+      "unique_brands": 37,
+      "average_rank": 2.74,
+      "linked_rows": 152,
+      "effective": 36,
+      "partial": 4,
+      "unsupported": 18,
+      "unverified": 98,
+      "top15": [
+        {
+          "brand": "健威家居",
+          "count": 20,
+          "average_rank": 1.9,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              5
+            ],
+            [
+              "江门高端定制品牌",
+              4
+            ],
+            [
+              "江门全屋设计",
+              4
+            ]
+          ],
+          "scope": "江门本地品牌"
+        },
+        {
+          "brand": "华浔品味装饰",
+          "count": 17,
+          "average_rank": 2.94,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              5
+            ],
+            [
+              "江门全屋设计",
+              5
+            ],
+            [
+              "江门高端装修",
+              4
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "星艺装饰",
+          "count": 14,
+          "average_rank": 1.93,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              4
+            ],
+            [
+              "江门高端装修",
+              4
+            ],
+            [
+              "江门全屋设计",
+              4
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "劳卡",
+          "count": 13,
+          "average_rank": 2.77,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              4
+            ],
+            [
+              "江门全屋设计",
+              4
+            ],
+            [
+              "楼盘场景",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "名匠装饰",
+          "count": 11,
+          "average_rank": 3.36,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              4
+            ],
+            [
+              "江门高端装修",
+              4
+            ],
+            [
+              "江门全屋设计",
+              2
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "欧派",
+          "count": 10,
+          "average_rank": 2.4,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              5
+            ],
+            [
+              "楼盘场景",
+              3
+            ],
+            [
+              "江门高端定制品牌",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "名雕装饰",
+          "count": 9,
+          "average_rank": 3.33,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端装修",
+              5
+            ],
+            [
+              "江门装修",
+              2
+            ],
+            [
+              "江门全屋设计",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "索菲亚",
+          "count": 8,
+          "average_rank": 3.25,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              4
+            ],
+            [
+              "楼盘场景",
+              2
+            ],
+            [
+              "江门高端定制品牌",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "盛世周木匠",
+          "count": 7,
+          "average_rank": 3.0,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端定制品牌",
+              4
+            ],
+            [
+              "江门全屋定制",
+              2
+            ],
+            [
+              "江门高端装修",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        },
+        {
+          "brand": "森之原装饰",
+          "count": 6,
+          "average_rank": 3.17,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端装修",
+              3
+            ],
+            [
+              "江门装修",
+              2
+            ],
+            [
+              "江门全屋设计",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        },
+        {
+          "brand": "峰尚汇装饰",
+          "count": 3,
+          "average_rank": 1.67,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门装修",
+              1
+            ],
+            [
+              "江门全屋设计",
+              1
+            ],
+            [
+              "楼盘场景",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        },
+        {
+          "brand": "居众装饰",
+          "count": 3,
+          "average_rank": 3.0,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端装修",
+              2
+            ],
+            [
+              "江门装修",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "上乘装饰",
+          "count": 3,
+          "average_rank": 3.67,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              2
+            ],
+            [
+              "江门高端装修",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        },
+        {
+          "brand": "尚品宅配",
+          "count": 3,
+          "average_rank": 4.0,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门全屋定制",
+              2
+            ],
+            [
+              "楼盘场景",
+              1
+            ]
+          ],
+          "scope": "全国/跨区域品牌"
+        },
+        {
+          "brand": "中域设计装饰",
+          "count": 2,
+          "average_rank": 1.5,
+          "platforms": [
+            "腾讯元宝"
+          ],
+          "platform_count": 1,
+          "tracks": [
+            [
+              "江门高端装修",
+              1
+            ],
+            [
+              "江门全屋设计",
+              1
+            ]
+          ],
+          "scope": "江门本地品牌"
+        }
+      ],
+      "source_types": {
+        "内容平台": 28,
+        "品牌官网": 26,
+        "软文/转载平台": 70,
+        "未提供链接": 4,
+        "其他网站": 20,
+        "行业平台": 2,
+        "企业信息/百科": 5,
+        "地图、点评平台": 1
+      },
+      "local_rows": 49,
+      "national_rows": 105
+    }
+  },
+  "track_top10": {
+    "楼盘场景": [
+      {
+        "brand": "索菲亚",
+        "count": 9,
+        "average_rank": 2.0,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "楼盘场景",
+            9
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "欧派",
+        "count": 8,
+        "average_rank": 2.25,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "楼盘场景",
+            8
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 6,
+        "average_rank": 2.5,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "楼盘场景",
+            6
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 5,
+        "average_rank": 1.4,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "楼盘场景",
+            5
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 5,
+        "average_rank": 2.2,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "楼盘场景",
+            5
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 5,
+        "average_rank": 3.4,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "楼盘场景",
+            5
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 4,
+        "average_rank": 2.5,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "楼盘场景",
+            4
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 4,
+        "average_rank": 3.5,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "楼盘场景",
+            4
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 3,
+        "average_rank": 2.33,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "楼盘场景",
+            3
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "峰尚汇装饰",
+        "count": 2,
+        "average_rank": 3.0,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "楼盘场景",
+            2
+          ]
+        ],
+        "scope": "江门本地品牌"
+      }
+    ],
+    "江门全屋定制": [
+      {
+        "brand": "欧派",
+        "count": 16,
+        "average_rank": 2.44,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门全屋定制",
+            16
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "索菲亚",
+        "count": 14,
+        "average_rank": 2.14,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门全屋定制",
+            14
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 10,
+        "average_rank": 1.5,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋定制",
+            10
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 7,
+        "average_rank": 3.86,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门全屋定制",
+            7
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 5,
+        "average_rank": 3.0,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋定制",
+            5
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "斯米帝",
+        "count": 4,
+        "average_rank": 3.25,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋定制",
+            4
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "维意定制",
+        "count": 3,
+        "average_rank": 2.67,
+        "platforms": [
+          "DeepSeek",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋定制",
+            3
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 3,
+        "average_rank": 3.33,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋定制",
+            3
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "上乘装饰",
+        "count": 2,
+        "average_rank": 3.5,
+        "platforms": [
+          "腾讯元宝"
+        ],
+        "platform_count": 1,
+        "tracks": [
+          [
+            "江门全屋定制",
+            2
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "我乐家居",
+        "count": 2,
+        "average_rank": 3.5,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋定制",
+            2
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      }
+    ],
+    "江门全屋设计": [
+      {
+        "brand": "华浔品味装饰",
+        "count": 12,
+        "average_rank": 2.75,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门全屋设计",
+            12
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 10,
+        "average_rank": 2.4,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门全屋设计",
+            10
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 9,
+        "average_rank": 2.22,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋设计",
+            9
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 8,
+        "average_rank": 1.88,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋设计",
+            8
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "索菲亚",
+        "count": 6,
+        "average_rank": 3.0,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门全屋设计",
+            6
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 6,
+        "average_rank": 3.33,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门全屋设计",
+            6
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "欧派",
+        "count": 4,
+        "average_rank": 3.75,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门全屋设计",
+            4
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 3,
+        "average_rank": 2.67,
+        "platforms": [
+          "DeepSeek",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋设计",
+            3
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "中域设计装饰",
+        "count": 2,
+        "average_rank": 2.0,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门全屋设计",
+            2
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "居众装饰",
+        "count": 2,
+        "average_rank": 2.0,
+        "platforms": [
+          "豆包"
+        ],
+        "platform_count": 1,
+        "tracks": [
+          [
+            "江门全屋设计",
+            2
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      }
+    ],
+    "江门装修": [
+      {
+        "brand": "星艺装饰",
+        "count": 14,
+        "average_rank": 1.79,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门装修",
+            14
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 14,
+        "average_rank": 2.21,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门装修",
+            14
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 12,
+        "average_rank": 2.33,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门装修",
+            12
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 10,
+        "average_rank": 3.0,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门装修",
+            10
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "华美乐装饰",
+        "count": 5,
+        "average_rank": 3.8,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门装修",
+            5
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "华宁装饰",
+        "count": 4,
+        "average_rank": 2.75,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门装修",
+            4
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 3,
+        "average_rank": 4.0,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门装修",
+            3
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 3,
+        "average_rank": 4.33,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门装修",
+            3
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "居众装饰",
+        "count": 2,
+        "average_rank": 3.0,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门装修",
+            2
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "九艺装饰",
+        "count": 2,
+        "average_rank": 4.0,
+        "platforms": [
+          "DeepSeek"
+        ],
+        "platform_count": 1,
+        "tracks": [
+          [
+            "江门装修",
+            2
+          ]
+        ],
+        "scope": "江门本地品牌"
+      }
+    ],
+    "江门高端定制品牌": [
+      {
+        "brand": "健威家居",
+        "count": 8,
+        "average_rank": 1.12,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            8
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 8,
+        "average_rank": 2.12,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            8
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "索菲亚",
+        "count": 7,
+        "average_rank": 3.29,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            7
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "欧派",
+        "count": 6,
+        "average_rank": 3.17,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            6
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "博洛尼",
+        "count": 5,
+        "average_rank": 3.4,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            5
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "图森",
+        "count": 4,
+        "average_rank": 2.0,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            4
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "威法",
+        "count": 4,
+        "average_rank": 2.75,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            4
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 3,
+        "average_rank": 2.67,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            3
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "木里木外",
+        "count": 3,
+        "average_rank": 2.67,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            3
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "森润整木",
+        "count": 3,
+        "average_rank": 4.0,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门高端定制品牌",
+            3
+          ]
+        ],
+        "scope": "江门本地品牌"
+      }
+    ],
+    "江门高端装修": [
+      {
+        "brand": "华浔品味装饰",
+        "count": 14,
+        "average_rank": 2.57,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端装修",
+            14
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 13,
+        "average_rank": 2.38,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端装修",
+            13
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 13,
+        "average_rank": 2.38,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端装修",
+            13
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "居众装饰",
+        "count": 7,
+        "average_rank": 2.43,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端装修",
+            7
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 7,
+        "average_rank": 2.86,
+        "platforms": [
+          "DeepSeek",
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 3,
+        "tracks": [
+          [
+            "江门高端装修",
+            7
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 4,
+        "average_rank": 4.75,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门高端装修",
+            4
+          ]
+        ],
+        "scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 3,
+        "average_rank": 2.33,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门高端装修",
+            3
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 3,
+        "average_rank": 2.33,
+        "platforms": [
+          "腾讯元宝"
+        ],
+        "platform_count": 1,
+        "tracks": [
+          [
+            "江门高端装修",
+            3
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "中域设计装饰",
+        "count": 2,
+        "average_rank": 3.0,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门高端装修",
+            2
+          ]
+        ],
+        "scope": "江门本地品牌"
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 2,
+        "average_rank": 4.5,
+        "platforms": [
+          "腾讯元宝",
+          "豆包"
+        ],
+        "platform_count": 2,
+        "tracks": [
+          [
+            "江门高端装修",
+            2
+          ]
+        ],
+        "scope": "江门本地品牌"
+      }
+    ]
+  },
+  "question_overlap": [
+    {
+      "question_number": 1,
+      "common_brands": [
+        "欧派",
+        "索菲亚"
+      ],
+      "common_count": 2,
+      "union_count": 7
+    },
+    {
+      "question_number": 2,
+      "common_brands": [
+        "欧派",
+        "索菲亚"
+      ],
+      "common_count": 2,
+      "union_count": 8
+    },
+    {
+      "question_number": 3,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 10
+    },
+    {
+      "question_number": 4,
+      "common_brands": [
+        "欧派"
+      ],
+      "common_count": 1,
+      "union_count": 7
+    },
+    {
+      "question_number": 5,
+      "common_brands": [
+        "欧派"
+      ],
+      "common_count": 1,
+      "union_count": 9
+    },
+    {
+      "question_number": 6,
+      "common_brands": [
+        "欧派",
+        "索菲亚"
+      ],
+      "common_count": 2,
+      "union_count": 7
+    },
+    {
+      "question_number": 7,
+      "common_brands": [
+        "名匠装饰",
+        "星艺装饰"
+      ],
+      "common_count": 2,
+      "union_count": 7
+    },
+    {
+      "question_number": 8,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 10
+    },
+    {
+      "question_number": 9,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 10
+    },
+    {
+      "question_number": 10,
+      "common_brands": [
+        "华浔品味装饰",
+        "星艺装饰"
+      ],
+      "common_count": 2,
+      "union_count": 8
+    },
+    {
+      "question_number": 11,
+      "common_brands": [
+        "名匠装饰"
+      ],
+      "common_count": 1,
+      "union_count": 10
+    },
+    {
+      "question_number": 12,
+      "common_brands": [
+        "华浔品味装饰",
+        "名匠装饰"
+      ],
+      "common_count": 2,
+      "union_count": 10
+    },
+    {
+      "question_number": 13,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 10
+    },
+    {
+      "question_number": 14,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 9
+    },
+    {
+      "question_number": 15,
+      "common_brands": [
+        "博洛尼",
+        "图森",
+        "威法",
+        "木里木外"
+      ],
+      "common_count": 4,
+      "union_count": 6
+    },
+    {
+      "question_number": 16,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 11
+    },
+    {
+      "question_number": 17,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 8
+    },
+    {
+      "question_number": 18,
+      "common_brands": [
+        "盛世周木匠"
+      ],
+      "common_count": 1,
+      "union_count": 8
+    },
+    {
+      "question_number": 19,
+      "common_brands": [
+        "华浔品味装饰",
+        "名匠装饰",
+        "星艺装饰"
+      ],
+      "common_count": 3,
+      "union_count": 7
+    },
+    {
+      "question_number": 20,
+      "common_brands": [
+        "华浔品味装饰",
+        "名匠装饰",
+        "星艺装饰"
+      ],
+      "common_count": 3,
+      "union_count": 7
+    },
+    {
+      "question_number": 21,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 8
+    },
+    {
+      "question_number": 22,
+      "common_brands": [
+        "华浔品味装饰",
+        "名匠装饰",
+        "星艺装饰"
+      ],
+      "common_count": 3,
+      "union_count": 7
+    },
+    {
+      "question_number": 23,
+      "common_brands": [
+        "居众装饰"
+      ],
+      "common_count": 1,
+      "union_count": 6
+    },
+    {
+      "question_number": 24,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 11
+    },
+    {
+      "question_number": 25,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 11
+    },
+    {
+      "question_number": 26,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 9
+    },
+    {
+      "question_number": 27,
+      "common_brands": [
+        "华浔品味装饰",
+        "星艺装饰"
+      ],
+      "common_count": 2,
+      "union_count": 9
+    },
+    {
+      "question_number": 28,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 9
+    },
+    {
+      "question_number": 29,
+      "common_brands": [
+        "欧派"
+      ],
+      "common_count": 1,
+      "union_count": 9
+    },
+    {
+      "question_number": 30,
+      "common_brands": [
+        "华浔品味装饰"
+      ],
+      "common_count": 1,
+      "union_count": 8
+    },
+    {
+      "question_number": 31,
+      "common_brands": [
+        "欧派",
+        "索菲亚"
+      ],
+      "common_count": 2,
+      "union_count": 9
+    },
+    {
+      "question_number": 32,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 11
+    },
+    {
+      "question_number": 33,
+      "common_brands": [
+        "华浔品味装饰",
+        "名匠装饰"
+      ],
+      "common_count": 2,
+      "union_count": 7
+    },
+    {
+      "question_number": 34,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 11
+    },
+    {
+      "question_number": 35,
+      "common_brands": [],
+      "common_count": 0,
+      "union_count": 10
+    },
+    {
+      "question_number": 36,
+      "common_brands": [
+        "索菲亚"
+      ],
+      "common_count": 1,
+      "union_count": 6
+    }
+  ],
+  "questions_with_common_brand": 21,
+  "average_common_brands_per_question": 1.08
+}

@@ -1,0 +1,1098 @@
+{
+  "sample_count": 180,
+  "recommendation_row_count": 757,
+  "brand_count": 105,
+  "overall": [
+    {
+      "brand": "华浔品味装饰",
+      "count": 72,
+      "average_rank": 2.5
+    },
+    {
+      "brand": "星艺装饰",
+      "count": 64,
+      "average_rank": 2.28
+    },
+    {
+      "brand": "名匠装饰",
+      "count": 56,
+      "average_rank": 2.54
+    },
+    {
+      "brand": "健威家居",
+      "count": 51,
+      "average_rank": 1.69
+    },
+    {
+      "brand": "劳卡",
+      "count": 50,
+      "average_rank": 2.92
+    },
+    {
+      "brand": "索菲亚",
+      "count": 48,
+      "average_rank": 2.38
+    },
+    {
+      "brand": "欧派",
+      "count": 47,
+      "average_rank": 2.77
+    },
+    {
+      "brand": "峰尚汇装饰",
+      "count": 28,
+      "average_rank": 2.64
+    },
+    {
+      "brand": "盛世周木匠",
+      "count": 23,
+      "average_rank": 2.78
+    },
+    {
+      "brand": "名雕装饰",
+      "count": 21,
+      "average_rank": 2.67
+    },
+    {
+      "brand": "森之原装饰",
+      "count": 21,
+      "average_rank": 2.52
+    },
+    {
+      "brand": "尚品宅配",
+      "count": 17,
+      "average_rank": 3.47
+    },
+    {
+      "brand": "华美乐装饰",
+      "count": 16,
+      "average_rank": 3.31
+    },
+    {
+      "brand": "居众装饰",
+      "count": 12,
+      "average_rank": 2.42
+    },
+    {
+      "brand": "木晟美家装饰",
+      "count": 12,
+      "average_rank": 3.42
+    },
+    {
+      "brand": "斯米帝",
+      "count": 11,
+      "average_rank": 3.18
+    },
+    {
+      "brand": "佰怡家",
+      "count": 11,
+      "average_rank": 2.64
+    },
+    {
+      "brand": "尚层装饰",
+      "count": 10,
+      "average_rank": 3.3
+    },
+    {
+      "brand": "博洛尼",
+      "count": 9,
+      "average_rank": 3.22
+    },
+    {
+      "brand": "威法",
+      "count": 8,
+      "average_rank": 2.5
+    },
+    {
+      "brand": "轩怡装饰",
+      "count": 7,
+      "average_rank": 3.57
+    },
+    {
+      "brand": "木里木外",
+      "count": 7,
+      "average_rank": 2.86
+    },
+    {
+      "brand": "科凡高定",
+      "count": 7,
+      "average_rank": 3.43
+    },
+    {
+      "brand": "维意定制",
+      "count": 6,
+      "average_rank": 2.83
+    },
+    {
+      "brand": "九艺装饰",
+      "count": 6,
+      "average_rank": 4.17
+    },
+    {
+      "brand": "杰普家居",
+      "count": 6,
+      "average_rank": 3.17
+    },
+    {
+      "brand": "华宁装饰",
+      "count": 5,
+      "average_rank": 2.4
+    },
+    {
+      "brand": "图森",
+      "count": 5,
+      "average_rank": 2.4
+    },
+    {
+      "brand": "鲁班匠心",
+      "count": 5,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "中域设计装饰",
+      "count": 5,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "森润整木",
+      "count": 5,
+      "average_rank": 3.2
+    },
+    {
+      "brand": "蜗窝家",
+      "count": 5,
+      "average_rank": 3.2
+    },
+    {
+      "brand": "墅境全屋设计",
+      "count": 4,
+      "average_rank": 2.25
+    },
+    {
+      "brand": "如鱼得水",
+      "count": 3,
+      "average_rank": 2.67
+    },
+    {
+      "brand": "顾家家居",
+      "count": 3,
+      "average_rank": 2.33
+    },
+    {
+      "brand": "固道",
+      "count": 3,
+      "average_rank": 1.0
+    },
+    {
+      "brand": "优豪斯空间设计",
+      "count": 3,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "上乘装饰",
+      "count": 3,
+      "average_rank": 3.67
+    },
+    {
+      "brand": "我乐家居",
+      "count": 2,
+      "average_rank": 3.5
+    },
+    {
+      "brand": "M77",
+      "count": 2,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "领尚木作",
+      "count": 2,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "博睿装饰",
+      "count": 2,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "金牌家居",
+      "count": 2,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "诗尼曼",
+      "count": 2,
+      "average_rank": 3.5
+    },
+    {
+      "brand": "梦居装饰",
+      "count": 2,
+      "average_rank": 4.5
+    },
+    {
+      "brand": "九浔装饰",
+      "count": 2,
+      "average_rank": 4.5
+    },
+    {
+      "brand": "好莱客",
+      "count": 2,
+      "average_rank": 2.5
+    },
+    {
+      "brand": "摩力克",
+      "count": 2,
+      "average_rank": 3.5
+    },
+    {
+      "brand": "米兰软装",
+      "count": 2,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "图斯家居",
+      "count": 2,
+      "average_rank": 2.5
+    },
+    {
+      "brand": "嘉年华装饰",
+      "count": 2,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "建鸿古典家具",
+      "count": 2,
+      "average_rank": 3.5
+    },
+    {
+      "brand": "卡芬达家居",
+      "count": 2,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "美域高定",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "欧铂丽",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "百得胜",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "壹品装饰",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "三星装饰",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "道胜设计",
+      "count": 1,
+      "average_rank": 1.0
+    },
+    {
+      "brand": "Rimadesio",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "壹方精筑",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "简一全屋定制",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "简艺空间设计",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "艾特空间设计",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "点石设计",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "点睛设计",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "金螳螂·家",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "红星美凯龙",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "生活家装饰",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "壹家装饰",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "东易日盛",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "居研设计",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "联邦高登",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "铂尼思",
+      "count": 1,
+      "average_rank": 1.0
+    },
+    {
+      "brand": "伯爵家居",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "境垣空间设计",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "顶固",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "尚筑品家装饰",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "麦格门窗",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "建雅摩托",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "恒锐石材",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "强立",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "梁志天设计集团",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "百安居装饰",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "叁明堂设计",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "红杉树装饰",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "宝岛家居",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "鸿艺源设计",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "鼎饰空间",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "梵享高定",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "DT高端定制",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "腾辉机械",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "美景皮革",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "尚度全屋家居",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "建三设计",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "奥莱娅家具",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "优家装饰",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "维特丽全屋定制",
+      "count": 1,
+      "average_rank": 1.0
+    },
+    {
+      "brand": "非意装饰",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "永庆装饰",
+      "count": 1,
+      "average_rank": 5.0
+    },
+    {
+      "brand": "大自然地板",
+      "count": 1,
+      "average_rank": 2.0
+    },
+    {
+      "brand": "法曼威",
+      "count": 1,
+      "average_rank": 3.0
+    },
+    {
+      "brand": "未来式",
+      "count": 1,
+      "average_rank": 4.0
+    },
+    {
+      "brand": "绿城M·确幸家",
+      "count": 1,
+      "average_rank": 1.0
+    },
+    {
+      "brand": "珠江装饰",
+      "count": 1,
+      "average_rank": 2.0
+    }
+  ],
+  "tracks": {
+    "江门全屋定制": [
+      {
+        "brand": "索菲亚",
+        "count": 22
+      },
+      {
+        "brand": "欧派",
+        "count": 21
+      },
+      {
+        "brand": "健威家居",
+        "count": 15
+      },
+      {
+        "brand": "劳卡",
+        "count": 10
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 8
+      },
+      {
+        "brand": "佰怡家",
+        "count": 6
+      },
+      {
+        "brand": "斯米帝",
+        "count": 5
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 5
+      },
+      {
+        "brand": "杰普家居",
+        "count": 5
+      },
+      {
+        "brand": "维意定制",
+        "count": 3
+      }
+    ],
+    "江门装修": [
+      {
+        "brand": "星艺装饰",
+        "count": 21
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 20
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 20
+      },
+      {
+        "brand": "劳卡",
+        "count": 14
+      },
+      {
+        "brand": "华美乐装饰",
+        "count": 9
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 9
+      },
+      {
+        "brand": "峰尚汇装饰",
+        "count": 9
+      },
+      {
+        "brand": "华宁装饰",
+        "count": 4
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 3
+      },
+      {
+        "brand": "轩怡装饰",
+        "count": 3
+      }
+    ],
+    "江门高端定制品牌": [
+      {
+        "brand": "健威家居",
+        "count": 13
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 12
+      },
+      {
+        "brand": "威法",
+        "count": 7
+      },
+      {
+        "brand": "博洛尼",
+        "count": 7
+      },
+      {
+        "brand": "索菲亚",
+        "count": 7
+      },
+      {
+        "brand": "欧派",
+        "count": 7
+      },
+      {
+        "brand": "木里木外",
+        "count": 7
+      },
+      {
+        "brand": "图森",
+        "count": 5
+      },
+      {
+        "brand": "森润整木",
+        "count": 5
+      },
+      {
+        "brand": "斯米帝",
+        "count": 5
+      }
+    ],
+    "江门高端装修": [
+      {
+        "brand": "名匠装饰",
+        "count": 22
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 21
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 19
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 10
+      },
+      {
+        "brand": "居众装饰",
+        "count": 7
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 7
+      },
+      {
+        "brand": "劳卡",
+        "count": 6
+      },
+      {
+        "brand": "峰尚汇装饰",
+        "count": 6
+      },
+      {
+        "brand": "健威家居",
+        "count": 4
+      },
+      {
+        "brand": "华美乐装饰",
+        "count": 3
+      }
+    ],
+    "江门全屋设计": [
+      {
+        "brand": "华浔品味装饰",
+        "count": 17
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 16
+      },
+      {
+        "brand": "劳卡",
+        "count": 12
+      },
+      {
+        "brand": "健威家居",
+        "count": 9
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 8
+      },
+      {
+        "brand": "索菲亚",
+        "count": 7
+      },
+      {
+        "brand": "欧派",
+        "count": 6
+      },
+      {
+        "brand": "峰尚汇装饰",
+        "count": 6
+      },
+      {
+        "brand": "木晟美家装饰",
+        "count": 5
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 4
+      }
+    ],
+    "楼盘场景": [
+      {
+        "brand": "欧派",
+        "count": 11
+      },
+      {
+        "brand": "索菲亚",
+        "count": 10
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 10
+      },
+      {
+        "brand": "健威家居",
+        "count": 7
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 6
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 6
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 6
+      },
+      {
+        "brand": "劳卡",
+        "count": 5
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 4
+      },
+      {
+        "brand": "如鱼得水",
+        "count": 3
+      }
+    ]
+  },
+  "platforms": {
+    "DeepSeek": [
+      {
+        "brand": "星艺装饰",
+        "count": 17
+      },
+      {
+        "brand": "欧派",
+        "count": 15
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 15
+      },
+      {
+        "brand": "索菲亚",
+        "count": 13
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 12
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 9
+      },
+      {
+        "brand": "博洛尼",
+        "count": 5
+      },
+      {
+        "brand": "华宁装饰",
+        "count": 4
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 4
+      },
+      {
+        "brand": "九艺装饰",
+        "count": 4
+      },
+      {
+        "brand": "威法",
+        "count": 3
+      },
+      {
+        "brand": "维意定制",
+        "count": 2
+      },
+      {
+        "brand": "轩怡装饰",
+        "count": 2
+      },
+      {
+        "brand": "图森",
+        "count": 2
+      },
+      {
+        "brand": "M77",
+        "count": 2
+      }
+    ],
+    "豆包": [
+      {
+        "brand": "劳卡",
+        "count": 23
+      },
+      {
+        "brand": "健威家居",
+        "count": 17
+      },
+      {
+        "brand": "索菲亚",
+        "count": 16
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 15
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 14
+      },
+      {
+        "brand": "欧派",
+        "count": 11
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 11
+      },
+      {
+        "brand": "居众装饰",
+        "count": 8
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 7
+      },
+      {
+        "brand": "佰怡家",
+        "count": 6
+      },
+      {
+        "brand": "华美乐装饰",
+        "count": 5
+      },
+      {
+        "brand": "斯米帝",
+        "count": 4
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 4
+      },
+      {
+        "brand": "科凡高定",
+        "count": 3
+      },
+      {
+        "brand": "中域设计装饰",
+        "count": 3
+      }
+    ],
+    "千问": [
+      {
+        "brand": "峰尚汇装饰",
+        "count": 20
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 17
+      },
+      {
+        "brand": "劳卡",
+        "count": 12
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 8
+      },
+      {
+        "brand": "索菲亚",
+        "count": 7
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 7
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 7
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 5
+      },
+      {
+        "brand": "木里木外",
+        "count": 4
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 4
+      },
+      {
+        "brand": "鲁班匠心",
+        "count": 3
+      },
+      {
+        "brand": "欧派",
+        "count": 3
+      },
+      {
+        "brand": "威法",
+        "count": 3
+      },
+      {
+        "brand": "固道",
+        "count": 3
+      },
+      {
+        "brand": "优豪斯空间设计",
+        "count": 3
+      }
+    ],
+    "文心一言": [
+      {
+        "brand": "星艺装饰",
+        "count": 17
+      },
+      {
+        "brand": "健威家居",
+        "count": 12
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 10
+      },
+      {
+        "brand": "木晟美家装饰",
+        "count": 9
+      },
+      {
+        "brand": "华美乐装饰",
+        "count": 9
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 9
+      },
+      {
+        "brand": "欧派",
+        "count": 8
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 8
+      },
+      {
+        "brand": "尚层装饰",
+        "count": 8
+      },
+      {
+        "brand": "蜗窝家",
+        "count": 5
+      },
+      {
+        "brand": "索菲亚",
+        "count": 4
+      },
+      {
+        "brand": "杰普家居",
+        "count": 4
+      },
+      {
+        "brand": "斯米帝",
+        "count": 4
+      },
+      {
+        "brand": "峰尚汇装饰",
+        "count": 4
+      },
+      {
+        "brand": "佰怡家",
+        "count": 3
+      }
+    ],
+    "腾讯元宝": [
+      {
+        "brand": "健威家居",
+        "count": 20
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 17
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 14
+      },
+      {
+        "brand": "劳卡",
+        "count": 13
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 11
+      },
+      {
+        "brand": "欧派",
+        "count": 10
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 9
+      },
+      {
+        "brand": "索菲亚",
+        "count": 8
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 7
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 6
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 3
+      },
+      {
+        "brand": "上乘装饰",
+        "count": 3
+      },
+      {
+        "brand": "峰尚汇装饰",
+        "count": 3
+      },
+      {
+        "brand": "居众装饰",
+        "count": 3
+      },
+      {
+        "brand": "斯米帝",
+        "count": 2
+      }
+    ]
+  }
+}

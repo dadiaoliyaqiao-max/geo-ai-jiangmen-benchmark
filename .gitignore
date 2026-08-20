@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+node_modules/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary and lock files
+~$*
+*.tmp
+*.temp
+
+# Local secrets and browser state (must never be committed)
+.env
+.env.*
+*.cookie
+cookies.json
+browser-profile/

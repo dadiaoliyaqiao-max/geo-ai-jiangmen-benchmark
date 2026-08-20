@@ -1,0 +1,7447 @@
+{
+  "search_period": "2026-07-25—2026-07-29",
+  "sample_count": 180,
+  "recommendation_row_count": 757,
+  "unique_brand_count": 105,
+  "unique_citation_count": 202,
+  "opened_candidate_pages": 126,
+  "candidate_pages": 135,
+  "overall": [
+    {
+      "brand": "华浔品味装饰",
+      "count": 72,
+      "average_rank": 2.5,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 21
+        },
+        {
+          "track": "江门装修",
+          "count": 20
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 17
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "hxdec.com",
+          "count": 10
+        },
+        {
+          "site": "cnblogs.com",
+          "count": 5
+        },
+        {
+          "site": "chinapp.net.cn",
+          "count": 4
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门华浔品味装饰-华浔品味装饰集团官网",
+          "url": "https://www.hxdec.com/website-branch/191.html",
+          "count": 8
+        },
+        {
+          "title": "2026年7月江门装修公司/江门毛坯房装修公司/江门一站式整装装修公司/江门大宅装修公司哪家服务好 - 品牌宣传支持者 - 企业博客",
+          "url": "https://www.cnblogs.com/xuexi2026/p/21060100",
+          "count": 4
+        },
+        {
+          "title": "江门装修公司推荐本地人私藏的6家口碑老牌公司避坑指南附真实案例",
+          "url": "http://www.fjpce.com/6573.html",
+          "count": 3
+        }
+      ],
+      "linked_count": 57,
+      "official_count": 17,
+      "third_party_count": 40,
+      "official_share": 0.298,
+      "valid_count": 11,
+      "partial_count": 0,
+      "unsupported_count": 5,
+      "unverified_count": 56
+    },
+    {
+      "brand": "星艺装饰",
+      "count": 64,
+      "average_rank": 2.28,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 21
+        },
+        {
+          "track": "江门高端装修",
+          "count": 19
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 16
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jiangmen.xydec.com.cn",
+          "count": 13
+        },
+        {
+          "site": "homello.com",
+          "count": 4
+        },
+        {
+          "site": "cnblogs.com",
+          "count": 3
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "星艺装饰江门公司-装饰装修行业本地品牌-专注高品质家装、豪宅、别墅设计施工!",
+          "url": "http://jiangmen.xydec.com.cn/",
+          "count": 7
+        },
+        {
+          "title": "星艺装饰江门公司-装饰装修行业本地品牌-专注高品质家装、豪宅、别墅设计施工!",
+          "url": "http://m.jiangmen.xydec.com.cn/",
+          "count": 6
+        },
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/index.php?city=5",
+          "count": 3
+        }
+      ],
+      "linked_count": 47,
+      "official_count": 20,
+      "third_party_count": 27,
+      "official_share": 0.426,
+      "valid_count": 13,
+      "partial_count": 1,
+      "unsupported_count": 7,
+      "unverified_count": 43
+    },
+    {
+      "brand": "名匠装饰",
+      "count": 56,
+      "average_rank": 2.54,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 22
+        },
+        {
+          "track": "江门装修",
+          "count": 20
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 8
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jm.mjzs.cn",
+          "count": 7
+        },
+        {
+          "site": "jm.mjdec.com",
+          "count": 6
+        },
+        {
+          "site": "mjdec.com",
+          "count": 5
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "名匠装饰官网-装修公司-别墅装修设计-新中式别墅装修-大宅装修价格",
+          "url": "http://m.jm.mjzs.cn/",
+          "count": 7
+        },
+        {
+          "title": "江门名匠装饰_江门装修公司_名匠装饰江门公司_江门别墅大宅装修设计",
+          "url": "http://m.jm.mjdec.com/",
+          "count": 4
+        },
+        {
+          "title": "公司简介_江门市名匠装饰设计工程有限公司装修公司_江门家家优保装修网",
+          "url": "https://jm.ybw315.com/company/1174/about",
+          "count": 4
+        }
+      ],
+      "linked_count": 44,
+      "official_count": 22,
+      "third_party_count": 22,
+      "official_share": 0.5,
+      "valid_count": 22,
+      "partial_count": 2,
+      "unsupported_count": 2,
+      "unverified_count": 30
+    },
+    {
+      "brand": "健威家居",
+      "count": 51,
+      "average_rank": 1.69,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 15
+        },
+        {
+          "track": "江门高端定制品牌",
+          "count": 13
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 9
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "mp.weixin.qq.com",
+          "count": 15
+        },
+        {
+          "site": "toutiao.com",
+          "count": 10
+        },
+        {
+          "site": "baike.baidu.com",
+          "count": 7
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门健威家具装饰有限公司_百度百科",
+          "url": "https://baike.baidu.com/item/%E6%B1%9F%E9%97%A8%E5%81%A5%E5%A8%81%E5%AE%B6%E5%85%B7%E8%A3%85%E9%A5%B0%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19987521",
+          "count": 7
+        },
+        {
+          "title": "健威家居怎么样?38年江门家居品牌的全屋定制实力解析",
+          "url": "http://mp.weixin.qq.com/s?__biz=Mzg2MDgyNzQxMQ==&mid=2247493663&idx=1&sn=d0acb487ca43ac73bf0faa23f8fc576f&chksm=cf4f5b089e615bb5feee9184cbeb03bc3258bdfc8d95d6cb9fd8dd2b00c22fe832dc684cd7f8#rd",
+          "count": 7
+        },
+        {
+          "title": "江门劳卡整装|江门市一冠家居用品有限公司|专注整装套餐装修、全屋定制、老房翻新",
+          "url": "https://www.jmlaokazz.com/",
+          "count": 2
+        }
+      ],
+      "linked_count": 50,
+      "official_count": 4,
+      "third_party_count": 46,
+      "official_share": 0.08,
+      "valid_count": 22,
+      "partial_count": 0,
+      "unsupported_count": 15,
+      "unverified_count": 14
+    },
+    {
+      "brand": "劳卡",
+      "count": 50,
+      "average_rank": 2.92,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 14
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 12
+        },
+        {
+          "track": "江门全屋定制",
+          "count": 10
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jmlaokazz.com",
+          "count": 20
+        },
+        {
+          "site": "suofeiya.com",
+          "count": 8
+        },
+        {
+          "site": "cnblogs.com",
+          "count": 5
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门劳卡整装|江门市一冠家居用品有限公司|专注整装套餐装修、全屋定制、老房翻新",
+          "url": "https://www.jmlaokazz.com/",
+          "count": 18
+        },
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://www.suofeiya.com/gonglue/25367.html",
+          "count": 6
+        },
+        {
+          "title": "2026年7月江门装修公司/江门毛坯房装修公司/江门一站式整装装修公司/江门大宅装修公司哪家服务好 - 品牌宣传支持者 - 企业博客",
+          "url": "https://www.cnblogs.com/xuexi2026/p/21060100",
+          "count": 4
+        }
+      ],
+      "linked_count": 50,
+      "official_count": 29,
+      "third_party_count": 21,
+      "official_share": 0.58,
+      "valid_count": 24,
+      "partial_count": 0,
+      "unsupported_count": 11,
+      "unverified_count": 15
+    },
+    {
+      "brand": "索菲亚",
+      "count": 48,
+      "average_rank": 2.38,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 22
+        },
+        {
+          "track": "楼盘场景",
+          "count": 10
+        },
+        {
+          "track": "江门高端定制品牌",
+          "count": 7
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 26
+        },
+        {
+          "site": "finance.stockstar.com",
+          "count": 1
+        },
+        {
+          "site": "aiqicha.baidu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://www.suofeiya.com/gonglue/25367.html",
+          "count": 7
+        },
+        {
+          "title": "江门索菲亚门店地址查询,装修选对环保又省心-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25187.html",
+          "count": 4
+        },
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25367.html",
+          "count": 4
+        }
+      ],
+      "linked_count": 34,
+      "official_count": 27,
+      "third_party_count": 7,
+      "official_share": 0.794,
+      "valid_count": 21,
+      "partial_count": 7,
+      "unsupported_count": 1,
+      "unverified_count": 19
+    },
+    {
+      "brand": "欧派",
+      "count": 47,
+      "average_rank": 2.77,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 21
+        },
+        {
+          "track": "楼盘场景",
+          "count": 11
+        },
+        {
+          "track": "江门高端定制品牌",
+          "count": 7
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "anjuke.com",
+          "count": 5
+        },
+        {
+          "site": "suofeiya.com",
+          "count": 5
+        },
+        {
+          "site": "163.com",
+          "count": 3
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "欧派全屋定制经销商(江门店)电话,欧派全屋定制经销商(江门店)地址、优惠活动、服务怎么样?-安居客装修建材网",
+          "url": "http://m.anjuke.com/jm/jiancai/md46646?is_title_transparent=1",
+          "count": 4
+        },
+        {
+          "title": "2026年江门市名城IP形象设计服务项目采购公告-江门市人民政府",
+          "url": "https://www.jiangmen.gov.cn/bmpd/jmszfhcxjsj/zwgk/gztg/content/post_3506292.html",
+          "count": 2
+        },
+        {
+          "title": "江门整装定制品牌盛世周木匠:匠心筑家,定制你的理想生活 - 企业动态 - 江门市品家家具有限公司旗下品牌-盛世周木匠红木家具官网",
+          "url": "http://www.sszmj.com/content-24-101-1.html",
+          "count": 2
+        }
+      ],
+      "linked_count": 31,
+      "official_count": 9,
+      "third_party_count": 22,
+      "official_share": 0.29,
+      "valid_count": 0,
+      "partial_count": 6,
+      "unsupported_count": 14,
+      "unverified_count": 27
+    },
+    {
+      "brand": "峰尚汇装饰",
+      "count": 28,
+      "average_rank": 2.64,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 9
+        },
+        {
+          "track": "江门高端装修",
+          "count": 6
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 6
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "tech.china.com",
+          "count": 20
+        },
+        {
+          "site": "51sole.com",
+          "count": 2
+        },
+        {
+          "site": "jmlaokazz.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "峰尚汇装饰风格多实力,价格透明避坑_中华网",
+          "url": "https://m.tech.china.com/redian/2026/0716/072026_1918453.html",
+          "count": 20
+        },
+        {
+          "title": "江门劳卡整装|江门市一冠家居用品有限公司|专注整装套餐装修、全屋定制、老房翻新",
+          "url": "https://www.jmlaokazz.com/",
+          "count": 1
+        },
+        {
+          "title": "江门市人民医院2026年零星装修修缮服务项目结果公告-中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202604/t20260430_26486841.htm",
+          "count": 1
+        }
+      ],
+      "linked_count": 28,
+      "official_count": 2,
+      "third_party_count": 26,
+      "official_share": 0.071,
+      "valid_count": 20,
+      "partial_count": 0,
+      "unsupported_count": 2,
+      "unverified_count": 6
+    },
+    {
+      "brand": "盛世周木匠",
+      "count": 23,
+      "average_rank": 2.78,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 12
+        },
+        {
+          "track": "江门全屋定制",
+          "count": 5
+        },
+        {
+          "track": "江门高端装修",
+          "count": 3
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "328f.cn",
+          "count": 7
+        },
+        {
+          "site": "sszmj.com",
+          "count": 3
+        },
+        {
+          "site": "hepan.com",
+          "count": 3
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "从红木家具到整装定制,江门优选品牌盛世周木匠-品牌红木网",
+          "url": "https://m.328f.cn/VideoDetailed_52882.html",
+          "count": 5
+        },
+        {
+          "title": "名贵硬木全屋定制成家居升级新趋势 江门新会双品牌矩阵 盛世周木匠 + 细工坊覆盖全阶 ... - 品牌推荐 - 资讯 - 蓝色河畔 - Powered by Discuz!",
+          "url": "https://www.hepan.com/article-492354-1.html",
+          "count": 3
+        },
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://www.suofeiya.com/gonglue/25367.html",
+          "count": 2
+        }
+      ],
+      "linked_count": 22,
+      "official_count": 5,
+      "third_party_count": 17,
+      "official_share": 0.227,
+      "valid_count": 15,
+      "partial_count": 0,
+      "unsupported_count": 3,
+      "unverified_count": 5
+    },
+    {
+      "brand": "森之原装饰",
+      "count": 21,
+      "average_rank": 2.52,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 9
+        },
+        {
+          "track": "江门高端装修",
+          "count": 7
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 4
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "echinagov.com",
+          "count": 3
+        },
+        {
+          "site": "homello.com",
+          "count": 3
+        },
+        {
+          "site": "tzb.jdzol.com",
+          "count": 2
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026精选:江门新房装修,装饰设计工作室高性价比推荐 - 江门森之原装饰 - 移动触屏版",
+          "url": "https://www.echinagov.com/news/guotao/Article-1i8woK-41.html",
+          "count": 3
+        },
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/m/article-show-13-373.html?city=5",
+          "count": 1
+        },
+        {
+          "title": "2026升级:江门装修设计,旧房装饰工作室五家企业实力解析",
+          "url": "http://tzb.jdzol.com/html/tzsx/cyzx/Article-1i8woK-971.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 21,
+      "official_count": 4,
+      "third_party_count": 17,
+      "official_share": 0.19,
+      "valid_count": 3,
+      "partial_count": 0,
+      "unsupported_count": 4,
+      "unverified_count": 14
+    },
+    {
+      "brand": "名雕装饰",
+      "count": 21,
+      "average_rank": 2.67,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 10
+        },
+        {
+          "track": "楼盘场景",
+          "count": 6
+        },
+        {
+          "track": "江门装修",
+          "count": 3
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "mp.weixin.qq.com",
+          "count": 3
+        },
+        {
+          "site": "qizuang.com",
+          "count": 2
+        },
+        {
+          "site": "fjpce.com",
+          "count": 2
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门装修公司哪家好十大排名 江门装修公司前十强-江门齐装网",
+          "url": "https://m.qizuang.com/jiangm/zxinfo/114887.html",
+          "count": 2
+        },
+        {
+          "title": "江门装修公司推荐本地人私藏的6家口碑老牌公司避坑指南附真实案例",
+          "url": "http://www.fjpce.com/6573.html",
+          "count": 2
+        },
+        {
+          "title": "名雕装饰介绍|评价|口碑|装修案例效果图|设计师-齐家装修网",
+          "url": "https://m.jia.com/company/detail-33343/",
+          "count": 1
+        }
+      ],
+      "linked_count": 17,
+      "official_count": 2,
+      "third_party_count": 15,
+      "official_share": 0.118,
+      "valid_count": 2,
+      "partial_count": 1,
+      "unsupported_count": 2,
+      "unverified_count": 16
+    },
+    {
+      "brand": "尚品宅配",
+      "count": 17,
+      "average_rank": 3.47,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 8
+        },
+        {
+          "track": "楼盘场景",
+          "count": 4
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 3
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 2
+        },
+        {
+          "site": "10100.com",
+          "count": 1
+        },
+        {
+          "site": "homello.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "欧派、索菲亚、志邦、尚品宅配、金牌...九大上市定制家居企业整家、整装套餐PK,谁主沉浮?- 大数跨境",
+          "url": "https://m.10100.com/article/5126798",
+          "count": 1
+        },
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/?city=5",
+          "count": 1
+        },
+        {
+          "title": "江门索菲亚门店地址查询,装修选对环保又省心-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25187.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 8,
+      "official_count": 4,
+      "third_party_count": 4,
+      "official_share": 0.5,
+      "valid_count": 1,
+      "partial_count": 3,
+      "unsupported_count": 3,
+      "unverified_count": 10
+    },
+    {
+      "brand": "华美乐装饰",
+      "count": 16,
+      "average_rank": 3.31,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 9
+        },
+        {
+          "track": "江门高端装修",
+          "count": 3
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "homello.com",
+          "count": 13
+        },
+        {
+          "site": "jmlaokazz.com",
+          "count": 1
+        },
+        {
+          "site": "jiangmen.to8to.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/index.php?city=5",
+          "count": 6
+        },
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/m?city=5",
+          "count": 2
+        },
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/m/article-show-9-417.html?city=5",
+          "count": 1
+        }
+      ],
+      "linked_count": 16,
+      "official_count": 14,
+      "third_party_count": 2,
+      "official_share": 0.875,
+      "valid_count": 14,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 1
+    },
+    {
+      "brand": "居众装饰",
+      "count": 12,
+      "average_rank": 2.42,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 7
+        },
+        {
+          "track": "江门装修",
+          "count": 2
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "ijuzhong.com",
+          "count": 10
+        },
+        {
+          "site": "chinapp.net.cn",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "居众装饰——高端装饰全案一体化服务商",
+          "url": "https://www.ijuzhong.com/knowledge/607.html",
+          "count": 1
+        },
+        {
+          "title": "7.\n居众装饰——高端装饰全案一体化服务商",
+          "url": "https://www.ijuzhong.com/knowledge/1101.html",
+          "count": 1
+        },
+        {
+          "title": "14.\n居众装饰——高端装饰全案一体化服务商",
+          "url": "https://www.ijuzhong.com/knowledge/607.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 11,
+      "official_count": 10,
+      "third_party_count": 1,
+      "official_share": 0.909,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 12
+    },
+    {
+      "brand": "木晟美家装饰",
+      "count": 12,
+      "average_rank": 3.42,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 5
+        },
+        {
+          "track": "江门装修",
+          "count": 3
+        },
+        {
+          "track": "楼盘场景",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 3
+        },
+        {
+          "site": "homello.com",
+          "count": 2
+        },
+        {
+          "site": "cnblogs.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://www.suofeiya.com/gonglue/25367.html",
+          "count": 2
+        },
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/index.php?city=5",
+          "count": 2
+        },
+        {
+          "title": "2026 最新珠三角青皮供应商 TOP10 评测!广东江门等地权威榜单发布,品质之选助力家居升级 - 十大品牌榜 - 企业博客-博客园",
+          "url": "https://www.cnblogs.com/pinpaituijian/p/19813984",
+          "count": 1
+        }
+      ],
+      "linked_count": 12,
+      "official_count": 5,
+      "third_party_count": 7,
+      "official_share": 0.417,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 4,
+      "unverified_count": 8
+    },
+    {
+      "brand": "佰怡家",
+      "count": 11,
+      "average_rank": 2.64,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 6
+        },
+        {
+          "track": "江门高端定制品牌",
+          "count": 2
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jmlaokazz.com",
+          "count": 3
+        },
+        {
+          "site": "51xxsp.com",
+          "count": 2
+        },
+        {
+          "site": "anjuke.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门劳卡整装|江门市一冠家居用品有限公司|专注整装套餐装修、全屋定制、老房翻新",
+          "url": "https://www.jmlaokazz.com/",
+          "count": 3
+        },
+        {
+          "title": "佰怡家全屋定制加盟-加盟条件-费用-电话-51加盟网",
+          "url": "https://m.51xxsp.com/index.php/brand/63740/",
+          "count": 2
+        },
+        {
+          "title": "诗尼曼广东江门江海店电话,诗尼曼广东江门江海店地址、优惠活动、服务怎么样?-安居客装修建材网",
+          "url": "https://m.anjuke.com/jm/jiancai/md29715/?is_title_transparent=1",
+          "count": 1
+        }
+      ],
+      "linked_count": 11,
+      "official_count": 4,
+      "third_party_count": 7,
+      "official_share": 0.364,
+      "valid_count": 4,
+      "partial_count": 0,
+      "unsupported_count": 5,
+      "unverified_count": 2
+    },
+    {
+      "brand": "斯米帝",
+      "count": 11,
+      "average_rank": 3.18,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 5
+        },
+        {
+          "track": "江门高端定制品牌",
+          "count": 5
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "simidi.com.cn",
+          "count": 4
+        },
+        {
+          "site": "jia400.com",
+          "count": 2
+        },
+        {
+          "site": "chinayigui.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "品牌介绍 - 广东斯米帝智能家居科技有限公司",
+          "url": "http://m.simidi.com.cn/col.jsp?id=103",
+          "count": 2
+        },
+        {
+          "title": "斯米帝全屋定制品牌卖点是什么?加盟靠谱吗-招商-慧亚家居网",
+          "url": "https://m.jia400.com/news/438644.html",
+          "count": 1
+        },
+        {
+          "title": "广东斯米帝智能家居科技有限公司",
+          "url": "http://www.simidi.com.cn",
+          "count": 1
+        }
+      ],
+      "linked_count": 11,
+      "official_count": 5,
+      "third_party_count": 6,
+      "official_share": 0.455,
+      "valid_count": 3,
+      "partial_count": 0,
+      "unsupported_count": 5,
+      "unverified_count": 3
+    },
+    {
+      "brand": "尚层装饰",
+      "count": 10,
+      "average_rank": 3.3,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 3
+        },
+        {
+          "track": "江门高端装修",
+          "count": 3
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "51sole.com",
+          "count": 2
+        },
+        {
+          "site": "homello.com",
+          "count": 2
+        },
+        {
+          "site": "iesdouyin.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/index.php?city=5",
+          "count": 2
+        },
+        {
+          "title": "1.\n潮 闻 东方 第一 套 别墅 项目 开工 , 不负 信任 , 匠心 筑造 理想 大宅 # 江门 装修 # 江门 别墅 装修 # 潮 闻 东方 别墅 # 江门 装修 公司 # 江门 名匠 装饰",
+          "url": "https://www.iesdouyin.com/share/video/7640803215462122603",
+          "count": 1
+        },
+        {
+          "title": "2026口碑高的江门装修公司客户口碑力荐-搜了网",
+          "url": "https://www.51sole.com/b2b/pd_508069557.htm",
+          "count": 1
+        }
+      ],
+      "linked_count": 9,
+      "official_count": 2,
+      "third_party_count": 7,
+      "official_share": 0.222,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 2,
+      "unverified_count": 8
+    },
+    {
+      "brand": "博洛尼",
+      "count": 9,
+      "average_rank": 3.22,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 7
+        },
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        },
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "boloni.com",
+          "count": 1
+        },
+        {
+          "site": "bjnews.com.cn",
+          "count": 1
+        },
+        {
+          "site": "jiangmen.to8to.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "博洛尼全屋定制官网_整体厨房_高端全屋定制品牌博洛尼",
+          "url": "https://www.boloni.com/",
+          "count": 1
+        },
+        {
+          "title": "回南天防潮+异形户型适配:科凡高定全屋定制华南家装实用指南 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1783923743129049.html",
+          "count": 1
+        },
+        {
+          "title": "江门十大装修公司排名榜,装修公司排名前十强-土巴兔江门装修网-土巴兔江门装修网",
+          "url": "https://jiangmen.to8to.com/top/company/",
+          "count": 1
+        }
+      ],
+      "linked_count": 4,
+      "official_count": 1,
+      "third_party_count": 3,
+      "official_share": 0.25,
+      "valid_count": 0,
+      "partial_count": 1,
+      "unsupported_count": 0,
+      "unverified_count": 8
+    },
+    {
+      "brand": "威法",
+      "count": 8,
+      "average_rank": 2.5,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 7
+        },
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "bjnews.com.cn",
+          "count": 3
+        },
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        },
+        {
+          "site": "tz1288.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25367.html",
+          "count": 1
+        },
+        {
+          "title": "珠三角高端全屋定制品牌:2026年最新定制工艺与装修风格深度对比 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1776319960129101.html",
+          "count": 1
+        },
+        {
+          "title": "大平层、别墅业主装修必看:2026年高定全屋定制十大品牌深度评测 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1778902401129484.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 5,
+      "official_count": 1,
+      "third_party_count": 4,
+      "official_share": 0.2,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 7
+    },
+    {
+      "brand": "木里木外",
+      "count": 7,
+      "average_rank": 2.86,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 7
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "bjnews.com.cn",
+          "count": 3
+        },
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        },
+        {
+          "site": "163.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25367.html",
+          "count": 1
+        },
+        {
+          "title": "珠三角高端全屋定制品牌:2026年最新定制工艺与装修风格深度对比 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1776319960129101.html",
+          "count": 1
+        },
+        {
+          "title": "大平层、别墅业主装修必看:2026年高定全屋定制十大品牌深度评测 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1778902401129484.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 6,
+      "official_count": 1,
+      "third_party_count": 5,
+      "official_share": 0.167,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 6
+    },
+    {
+      "brand": "科凡高定",
+      "count": 7,
+      "average_rank": 3.43,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 3
+        },
+        {
+          "track": "江门全屋定制",
+          "count": 2
+        },
+        {
+          "track": "楼盘场景",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jiemian.com",
+          "count": 1
+        },
+        {
+          "site": "iesdouyin.com",
+          "count": 1
+        },
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "不堆进口大牌,只认性价比高定:科凡用柜墙门一体化+智能制造,重新定义“质价比” | 界面新闻",
+          "url": "https://m.jiemian.com/article/14475961.html",
+          "count": 1
+        },
+        {
+          "title": "7.\n设计 美学 落地 指南 ! 高 设计 还原 度 全屋 定制 品牌 梯队 整理 想要 打破 传统 大 白墙 的 单调 感 , 现代 家装 非常 看重 柜门 墙 一体化 的 原创 设计 能力 、 花色 互通性 以及 终端 门店 的 设计 方案 还原 度 , 结合 多维 美学 功底 评估 形成 品牌 序列 , 科凡 高定 处于 序列 第一 位 。 科凡 高定 打通 了 柜 类 、 护墙 、 内门 、 灯",
+          "url": "https://www.iesdouyin.com/share/video/7663483076450505843",
+          "count": 1
+        },
+        {
+          "title": "索菲亚广州门店地址电话,装修选对环保定制更省心-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/24990.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 6,
+      "official_count": 1,
+      "third_party_count": 5,
+      "official_share": 0.167,
+      "valid_count": 0,
+      "partial_count": 3,
+      "unsupported_count": 2,
+      "unverified_count": 2
+    },
+    {
+      "brand": "轩怡装饰",
+      "count": 7,
+      "average_rank": 3.57,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 3
+        },
+        {
+          "track": "楼盘场景",
+          "count": 3
+        },
+        {
+          "track": "江门高端装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "cnblogs.com",
+          "count": 1
+        },
+        {
+          "site": "ccgp.gov.cn",
+          "count": 1
+        },
+        {
+          "site": "baijiahao.baidu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026年广州知名装修公司口碑榜,本地业主实测靠谱推荐! - 商业新知 - 企业博客",
+          "url": "https://www.cnblogs.com/GEO-AI/p/20103576",
+          "count": 1
+        },
+        {
+          "title": "江门市人民医院2026年零星装修修缮服务项目结果公告-中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202604/t20260430_26486841.htm",
+          "count": 1
+        },
+        {
+          "title": "广州装修预算精准匹配指南|新旧房全覆盖品牌对照清单-鹰潭日报",
+          "url": "https://baijiahao.baidu.com/s?id=1871929276686240639&wfr=spider&for=pc",
+          "count": 1
+        }
+      ],
+      "linked_count": 5,
+      "official_count": 0,
+      "third_party_count": 5,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 7
+    },
+    {
+      "brand": "维意定制",
+      "count": 6,
+      "average_rank": 2.83,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 3
+        },
+        {
+          "track": "楼盘场景",
+          "count": 2
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jia400.com",
+          "count": 1
+        },
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        },
+        {
+          "site": "chinapp.net.cn",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "维意定制口碑如何?来看看-慧亚家居网",
+          "url": "https://m.jia400.com/baike/detail?id=411660",
+          "count": 1
+        },
+        {
+          "title": "广州全屋定制十大排名,口碑品牌推荐省心又靠谱-索菲亚官网商城",
+          "url": "https://m.suofeiya.com/gonglue/24981.html",
+          "count": 1
+        },
+        {
+          "title": "2026江门装修公司综合实力推荐:五家预算透明、交付口碑稳定的靠谱企业精选_ 发现品牌_ 商业品牌网_ 中国商业品牌资讯门户",
+          "url": "https://www.chinapp.net.cn/faxianpinpai/2026/0713/129000.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 4,
+      "official_count": 2,
+      "third_party_count": 2,
+      "official_share": 0.5,
+      "valid_count": 0,
+      "partial_count": 1,
+      "unsupported_count": 1,
+      "unverified_count": 4
+    },
+    {
+      "brand": "杰普家居",
+      "count": 6,
+      "average_rank": 3.17,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 5
+        },
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "baike.baidu.com",
+          "count": 2
+        },
+        {
+          "site": "aiqicha.baidu.com",
+          "count": 2
+        },
+        {
+          "site": "cnblogs.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门市杰普家具有限公司_百度百科",
+          "url": "https://baike.baidu.com/item/%E6%B1%9F%E9%97%A8%E5%B8%82%E6%9D%B0%E6%99%AE%E5%AE%B6%E5%85%B7%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/16260554",
+          "count": 2
+        },
+        {
+          "title": "江门全屋定制厂哪家好-爱企查",
+          "url": "https://aiqicha.baidu.com/details/ugknowledge?id=3cf36ad343a33940a6ca90fa0093d09e",
+          "count": 2
+        },
+        {
+          "title": "2026 最新珠三角青皮供应商 TOP10 评测!广东江门等地权威榜单发布,品质之选助力家居升级 - 十大品牌榜 - 企业博客-博客园",
+          "url": "https://www.cnblogs.com/pinpaituijian/p/19813984",
+          "count": 1
+        }
+      ],
+      "linked_count": 6,
+      "official_count": 0,
+      "third_party_count": 6,
+      "official_share": 0.0,
+      "valid_count": 3,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 3
+    },
+    {
+      "brand": "九艺装饰",
+      "count": 6,
+      "average_rank": 4.17,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 3
+        },
+        {
+          "track": "江门装修",
+          "count": 2
+        },
+        {
+          "track": "江门高端装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "cnblogs.com",
+          "count": 1
+        },
+        {
+          "site": "to8to.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026年广州知名装修公司口碑榜,本地业主实测靠谱推荐! - 商业新知 - 企业博客",
+          "url": "https://www.cnblogs.com/GEO-AI/p/20103576",
+          "count": 1
+        },
+        {
+          "title": "2026广州装修避坑完整版:8家本土实力派装企分户型深度对比-土巴兔装修网",
+          "url": "https://www.to8to.com/yezhu/z362008.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 6
+    },
+    {
+      "brand": "华宁装饰",
+      "count": 5,
+      "average_rank": 2.4,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 4
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jm.hndec.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门华宁装饰_要装饰就选华宁装饰-华宁装饰江门分公司-别墅大宅家装 装修效果图设计",
+          "url": "http://jm.hndec.com",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 1,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 4
+    },
+    {
+      "brand": "图森",
+      "count": 5,
+      "average_rank": 2.4,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 5
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        },
+        {
+          "site": "bjnews.com.cn",
+          "count": 1
+        },
+        {
+          "site": "tz1288.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25367.html",
+          "count": 1
+        },
+        {
+          "title": "珠三角高端全屋定制品牌:2026年最新定制工艺与装修风格深度对比 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1776319960129101.html",
+          "count": 1
+        },
+        {
+          "title": "2026年现阶段江门实木家具定制生产商深度评估与选型指南",
+          "url": "https://www.tz1288.com/ask/9061827.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 3,
+      "official_count": 1,
+      "third_party_count": 2,
+      "official_share": 0.333,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 4
+    },
+    {
+      "brand": "中域设计装饰",
+      "count": 5,
+      "average_rank": 3.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 2
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 2
+        },
+        {
+          "track": "江门装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "morechange.cn",
+          "count": 3
+        },
+        {
+          "site": "jintangjiang.cn",
+          "count": 1
+        },
+        {
+          "site": "tianyancha.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "关于我们-广东中域设计装饰工程有限公司",
+          "url": "https://www.morechange.cn/page/46/",
+          "count": 3
+        },
+        {
+          "title": "中域设计装饰 - V名片",
+          "url": "https://www.jintangjiang.cn/user/index/more/uid/4815.html",
+          "count": 1
+        },
+        {
+          "title": "江门市王工全案设计有限公司 - 天眼查",
+          "url": "https://www.tianyancha.com/company/6197089016",
+          "count": 1
+        }
+      ],
+      "linked_count": 5,
+      "official_count": 3,
+      "third_party_count": 2,
+      "official_share": 0.6,
+      "valid_count": 4,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "森润整木",
+      "count": 5,
+      "average_rank": 3.2,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 5
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "senrun-wood.com",
+          "count": 3
+        },
+        {
+          "site": "jia400.com",
+          "count": 1
+        },
+        {
+          "site": "ldqxn.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "森润整木定制_高端原木定制_整木定制品牌加盟_森润整木定制官方网站",
+          "url": "https://www.senrun-wood.com/",
+          "count": 2
+        },
+        {
+          "title": "森润整木定制_高端原木定制_整木定制品牌加盟_森润整木定制官方网站",
+          "url": "https://senrun-wood.com/index.html",
+          "count": 1
+        },
+        {
+          "title": "森润整木定制产品好不好?品牌有哪些特色?-慧亚家居网",
+          "url": "https://m.jia400.com/shop/jmbk/detail?id=1655382&shop_id=10054",
+          "count": 1
+        }
+      ],
+      "linked_count": 5,
+      "official_count": 3,
+      "third_party_count": 2,
+      "official_share": 0.6,
+      "valid_count": 4,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "蜗窝家",
+      "count": 5,
+      "average_rank": 3.2,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 3
+        },
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        },
+        {
+          "track": "江门装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jiangmen.yzx315.com",
+          "count": 1
+        },
+        {
+          "site": "ccgp.gov.cn",
+          "count": 1
+        },
+        {
+          "site": "jiangmen.to8to.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门装修网_江门装修公司排名,设计报价,招标信息平台_买家宝-江门装修网",
+          "url": "http://jiangmen.yzx315.com/",
+          "count": 1
+        },
+        {
+          "title": "江门市人民医院2026年零星装修修缮服务项目结果公告-中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202604/t20260430_26486841.htm",
+          "count": 1
+        },
+        {
+          "title": "江门十大装修公司排名榜,装修公司排名前十强-土巴兔江门装修网-土巴兔江门装修网",
+          "url": "https://jiangmen.to8to.com/top/company/",
+          "count": 1
+        }
+      ],
+      "linked_count": 5,
+      "official_count": 0,
+      "third_party_count": 5,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 5
+    },
+    {
+      "brand": "鲁班匠心",
+      "count": 5,
+      "average_rank": 4.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 2
+        },
+        {
+          "track": "江门装修",
+          "count": 2
+        },
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        },
+        {
+          "site": "cnblogs.com",
+          "count": 1
+        },
+        {
+          "site": "shangyexinzhi.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://www.suofeiya.com/gonglue/25367.html",
+          "count": 1
+        },
+        {
+          "title": "2026年7月江门装修公司/江门毛坯房装修公司/江门一站式整装装修公司/江门大宅装修公司哪家服务好 - 品牌宣传支持者 - 企业博客",
+          "url": "https://www.cnblogs.com/xuexi2026/p/21060100",
+          "count": 1
+        },
+        {
+          "title": "探讨2026年江门正规装修公司,专业装修公司价格怎么收费_商业资讯-商业新知",
+          "url": "http://www.shangyexinzhi.com/article/details/id-31936223/",
+          "count": 1
+        }
+      ],
+      "linked_count": 4,
+      "official_count": 1,
+      "third_party_count": 3,
+      "official_share": 0.25,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 4
+    },
+    {
+      "brand": "墅境全屋设计",
+      "count": 4,
+      "average_rank": 2.25,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        },
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        },
+        {
+          "track": "江门高端装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        },
+        {
+          "site": "homello.com",
+          "count": 1
+        },
+        {
+          "site": "58.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://www.suofeiya.com/gonglue/25367.html",
+          "count": 1
+        },
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/index.php?city=5",
+          "count": 1
+        },
+        {
+          "title": "江门公装装修公司-58同城",
+          "url": "https://www.58.com/npphyhx2571719187/",
+          "count": 1
+        }
+      ],
+      "linked_count": 4,
+      "official_count": 2,
+      "third_party_count": 2,
+      "official_share": 0.5,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 2,
+      "unverified_count": 2
+    },
+    {
+      "brand": "固道",
+      "count": 3,
+      "average_rank": 1.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 2
+        },
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "bjnews.com.cn",
+          "count": 2
+        },
+        {
+          "site": "toutiao.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "大平层、别墅业主装修必看:2026年高定全屋定制十大品牌深度评测 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1778902401129484.html",
+          "count": 1
+        },
+        {
+          "title": "2026最新高端木作十大品牌权威榜单:华南实力派固道登顶 - 今日头条",
+          "url": "https://www.toutiao.com/article/7624474435898130979/",
+          "count": 1
+        },
+        {
+          "title": "2026广州全屋定制品牌横评榜单:高端品牌的定制工艺与装修风格深度对比 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1776493697129538.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 3,
+      "official_count": 0,
+      "third_party_count": 3,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 2
+    },
+    {
+      "brand": "优豪斯空间设计",
+      "count": 3,
+      "average_rank": 2.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 1
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        },
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "zgswcn.com",
+          "count": 3
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "优豪斯空间设UHOUSE软硬装一体化,保障别墅大平层高效落地 - 中国商报网",
+          "url": "https://www.zgswcn.com/news.html?aid=357543",
+          "count": 3
+        }
+      ],
+      "linked_count": 3,
+      "official_count": 0,
+      "third_party_count": 3,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 3,
+      "unverified_count": 0
+    },
+    {
+      "brand": "顾家家居",
+      "count": 3,
+      "average_rank": 2.33,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 2
+        },
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        },
+        {
+          "site": "fang.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+          "url": "https://www.suofeiya.com/gonglue/25367.html",
+          "count": 1
+        },
+        {
+          "title": "速看!!江门2025年04月优惠楼盘合辑 海悦天晟拎包礼赠送全屋欧派定制柜体,包括热门楼盘海悦天晟_房产资讯-江门房天下",
+          "url": "https://m.fang.com/news/jm/12188_52686267.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 1,
+      "third_party_count": 1,
+      "official_share": 0.5,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 2
+    },
+    {
+      "brand": "如鱼得水",
+      "count": 3,
+      "average_rank": 2.67,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 3
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "fang.com",
+          "count": 1
+        },
+        {
+          "site": "baijiahao.baidu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "速看!!江门2025年04月优惠楼盘合辑 海悦天晟拎包礼赠送全屋欧派定制柜体,包括热门楼盘海悦天晟_房产资讯-江门房天下",
+          "url": "https://m.fang.com/news/jm/12188_52686267.html",
+          "count": 1
+        },
+        {
+          "title": "2026年全屋窗帘定制品牌TOP推荐",
+          "url": "https://baijiahao.baidu.com/s?id=1859243659083934607&wfr=spider&for=pc",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 1,
+      "unsupported_count": 0,
+      "unverified_count": 2
+    },
+    {
+      "brand": "上乘装饰",
+      "count": 3,
+      "average_rank": 3.67,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 2
+        },
+        {
+          "track": "江门高端装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "sszmj.com",
+          "count": 1
+        },
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        },
+        {
+          "site": "mp.weixin.qq.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门整装定制品牌盛世周木匠:匠心筑家,定制你的理想生活 - 企业动态 - 江门市品家家具有限公司旗下品牌-盛世周木匠红木家具官网",
+          "url": "http://www.sszmj.com/content-24-101-1.html",
+          "count": 1
+        },
+        {
+          "title": "江门索菲亚全屋定制贵不贵?环保与性价比双优解析-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25365.html",
+          "count": 1
+        },
+        {
+          "title": "健威家居怎么样?38年江门家居品牌的全屋定制实力解析",
+          "url": "http://mp.weixin.qq.com/s?__biz=Mzg2MDgyNzQxMQ==&mid=2247493663&idx=1&sn=d0acb487ca43ac73bf0faa23f8fc576f&chksm=cf4f5b089e615bb5feee9184cbeb03bc3258bdfc8d95d6cb9fd8dd2b00c22fe832dc684cd7f8#rd",
+          "count": 1
+        }
+      ],
+      "linked_count": 3,
+      "official_count": 2,
+      "third_party_count": 1,
+      "official_share": 0.667,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 3,
+      "unverified_count": 0
+    },
+    {
+      "brand": "卡芬达家居",
+      "count": 2,
+      "average_rank": 2.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "mp.weixin.qq.com",
+          "count": 2
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "卡芬达家居丨全屋固装高定,纵享奢华居所",
+          "url": "http://mp.weixin.qq.com/s?__biz=MjM5MTY1NzU2MQ==&mid=2649510735&idx=1&sn=e849f5ec8e806fad3dd2a265e7b07c93&chksm=bf5c1e9005245dcefe7524867bd08d259d655bfac6c0fcb9035e90be2a95769778f903e92508#rd",
+          "count": 2
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 2,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 0
+    },
+    {
+      "brand": "嘉年华装饰",
+      "count": 2,
+      "average_rank": 2.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "baijiahao.baidu.com",
+          "count": 1
+        },
+        {
+          "site": "biz.ifeng.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "广州装修预算精准匹配指南|新旧房全覆盖品牌对照清单-鹰潭日报",
+          "url": "https://baijiahao.baidu.com/s?id=1871929276686240639&wfr=spider&for=pc",
+          "count": 1
+        },
+        {
+          "title": "2026广州装修公司深度解析:24年本土老牌嘉年华装饰,70% 回头率标杆装企推荐_凤凰网商业_凤凰网",
+          "url": "https://biz.ifeng.com/c/8v6GhMy8M25",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 1,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "米兰软装",
+      "count": 2,
+      "average_rank": 2.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "bjnews.com.cn",
+          "count": 1
+        },
+        {
+          "site": "baijiahao.baidu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026广州全屋定制品牌横评榜单:高端品牌的定制工艺与装修风格深度对比 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1776493697129538.html",
+          "count": 1
+        },
+        {
+          "title": "2026家居升级|窗帘选购全攻略+靠谱品牌清单,新手照着买不踩雷",
+          "url": "https://baijiahao.baidu.com/s?id=1865880663752353066&wfr=spider&for=pc",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 1,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "图斯家居",
+      "count": 2,
+      "average_rank": 2.5,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        },
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "aiqicha.baidu.com",
+          "count": 1
+        },
+        {
+          "site": "tusudz.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门全屋定制厂哪家好-爱企查",
+          "url": "https://aiqicha.baidu.com/details/ugknowledge?id=3cf36ad343a33940a6ca90fa0093d09e",
+          "count": 1
+        },
+        {
+          "title": "图斯家居-图斯全屋高端定制",
+          "url": "http://m.tusudz.com/",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 1
+    },
+    {
+      "brand": "好莱客",
+      "count": 2,
+      "average_rank": 2.5,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        },
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "baike.com",
+          "count": 1
+        },
+        {
+          "site": "aiqicha.baidu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "广州好莱客创意家居股份有限公司-快懂百科",
+          "url": "https://m.baike.com/wiki/%E5%B9%BF%E5%B7%9E%E5%A5%BD%E8%8E%B1%E5%AE%A2%E5%88%9B%E6%84%8F%E5%AE%B6%E5%B1%85%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19985896",
+          "count": 1
+        },
+        {
+          "title": "江门全屋定制厂哪家好-爱企查",
+          "url": "https://aiqicha.baidu.com/details/ugknowledge?id=3cf36ad343a33940a6ca90fa0093d09e",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 1,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "领尚木作",
+      "count": 2,
+      "average_rank": 3.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "weibo.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "Sina Visitor System",
+          "url": "https://weibo.com/1616741673/Rak9wiWAg",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 1
+    },
+    {
+      "brand": "建鸿古典家具",
+      "count": 2,
+      "average_rank": 3.5,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        },
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "bk.taobao.com",
+          "count": 1
+        },
+        {
+          "site": "tianyancha.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "25年江门家具装修品牌TOP5推荐避坑必看!",
+          "url": "https://bk.taobao.com/k/pinpaituijian_19166/9b85c3e06ccc709238a2e631440e9246.html",
+          "count": 1
+        },
+        {
+          "title": "江门市蓬江区健庭全屋定制家具厂 - 天眼查",
+          "url": "https://www.tianyancha.com/company/3147588678",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 2
+    },
+    {
+      "brand": "我乐家居",
+      "count": 2,
+      "average_rank": 3.5,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 2
+    },
+    {
+      "brand": "摩力克",
+      "count": 2,
+      "average_rank": 3.5,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "fang.com",
+          "count": 1
+        },
+        {
+          "site": "baijiahao.baidu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "速看!!江门2025年04月优惠楼盘合辑 海悦天晟拎包礼赠送全屋欧派定制柜体,包括热门楼盘海悦天晟_房产资讯-江门房天下",
+          "url": "https://m.fang.com/news/jm/12188_52686267.html",
+          "count": 1
+        },
+        {
+          "title": "2026家居升级|窗帘选购全攻略+靠谱品牌清单,新手照着买不踩雷",
+          "url": "https://baijiahao.baidu.com/s?id=1865880663752353066&wfr=spider&for=pc",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 1
+    },
+    {
+      "brand": "诗尼曼",
+      "count": 2,
+      "average_rank": 3.5,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "anjuke.com",
+          "count": 2
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "诗尼曼广东江门江海店电话,诗尼曼广东江门江海店地址、优惠活动、服务怎么样?-安居客装修建材网",
+          "url": "https://m.anjuke.com/jm/jiancai/md29715/?is_title_transparent=1",
+          "count": 1
+        },
+        {
+          "title": "4.\n诗尼曼广东江门江海店电话,诗尼曼广东江门江海店地址、优惠活动、服务怎么样?-安居客装修建材网",
+          "url": "https://m.anjuke.com/jm/jiancai/md29715/?is_title_transparent=1",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 0,
+      "third_party_count": 2,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 2,
+      "unverified_count": 0
+    },
+    {
+      "brand": "M77",
+      "count": 2,
+      "average_rank": 4.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 2
+    },
+    {
+      "brand": "博睿装饰",
+      "count": 2,
+      "average_rank": 4.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 1
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 2
+    },
+    {
+      "brand": "金牌家居",
+      "count": 2,
+      "average_rank": 4.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 2
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "fang.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "速看!!江门2025年04月优惠楼盘合辑 海悦天晟拎包礼赠送全屋欧派定制柜体,包括热门楼盘海悦天晟_房产资讯-江门房天下",
+          "url": "https://m.fang.com/news/jm/12188_52686267.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 2
+    },
+    {
+      "brand": "九浔装饰",
+      "count": 2,
+      "average_rank": 4.5,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 1
+        },
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jmlaokazz.com",
+          "count": 1
+        },
+        {
+          "site": "tzb.jdzol.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门劳卡整装|江门市一冠家居用品有限公司|专注整装套餐装修、全屋定制、老房翻新",
+          "url": "https://www.jmlaokazz.com/",
+          "count": 1
+        },
+        {
+          "title": "2026年江门鹤山新房整装与高端整装甄选指南:剖析本土市场,解锁品质家装新路径",
+          "url": "http://tzb.jdzol.com/html/tzsx/cyzx/Article-CVSAaE-571.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 1,
+      "third_party_count": 1,
+      "official_share": 0.5,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 1
+    },
+    {
+      "brand": "梦居装饰",
+      "count": 2,
+      "average_rank": 4.5,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 1
+        },
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "homello.com",
+          "count": 1
+        },
+        {
+          "site": "jiangmen.zx123.cn",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+          "url": "https://www.homello.com/?city=5",
+          "count": 1
+        },
+        {
+          "title": "2026江门装修公司十大排名 - 江门装修公司哪家好 -",
+          "url": "https://jiangmen.zx123.cn/gspm/",
+          "count": 1
+        }
+      ],
+      "linked_count": 2,
+      "official_count": 1,
+      "third_party_count": 1,
+      "official_share": 0.5,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 2
+    },
+    {
+      "brand": "维特丽全屋定制",
+      "count": 1,
+      "average_rank": 1.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "广州全屋定制十大排名,口碑品牌推荐省心又靠谱-装修攻略-索菲亚全屋定制",
+          "url": "https://www.suofeiya.com/gonglue/24981.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 1,
+      "third_party_count": 0,
+      "official_share": 1.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    },
+    {
+      "brand": "绿城M·确幸家",
+      "count": 1,
+      "average_rank": 1.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "mp.weixin.qq.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "潮闻东方x确幸家毛坯自由整装省心",
+          "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1785122106&ver=6867&signature=vkpXrZAhZnYJHG5DqY6YNEt-cFnDMQLGfab9zxqk0l2B8l1KHrDFSNgx*F8hn-YbEBf3QzlY7-T*Ky8Q78UgYl04KrjKtZCk5V8Lr9z5CPqx68sQxwE9F*tRBwYY9Qnr&new=1",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    },
+    {
+      "brand": "道胜设计",
+      "count": 1,
+      "average_rank": 1.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "铂尼思",
+      "count": 1,
+      "average_rank": 1.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "maigoo.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "铂尼思BAUNIS品牌介绍-铂尼思整体家装-买购APP",
+          "url": "https://m.maigoo.com/brand/4107854.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 1,
+      "unsupported_count": 0,
+      "unverified_count": 0
+    },
+    {
+      "brand": "叁明堂设计",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "sohu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "建E首发 | 叁明堂设计:创新四代宅——院筑相融,迭代新生_沙发_阳光_空间",
+          "url": "https://www.sohu.com/a/919906771_121118711",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 1,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 0
+    },
+    {
+      "brand": "大自然地板",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "shzh.net",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "精装房改造怎么做更划算?从验房到翻新,业主必看的二次装修避坑指南",
+          "url": "https://m.shzh.net/baike/detail-9549",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "奥莱娅家具",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "baijiahao.baidu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026家居升级|窗帘选购全攻略+靠谱品牌清单,新手照着买不踩雷",
+          "url": "https://baijiahao.baidu.com/s?id=1865880663752353066&wfr=spider&for=pc",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    },
+    {
+      "brand": "宝岛家居",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "bjnews.com.cn",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026广州全屋定制品牌横评榜单:高端品牌的定制工艺与装修风格深度对比 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1776493697129538.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "尚筑品家装饰",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "baike.sogou.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门尙筑品家装饰设计工程有限公司 _ 百科",
+          "url": "https://baike.sogou.com/v60688419.htm",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    },
+    {
+      "brand": "梁志天设计集团",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门高端装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "shangyexinzhi.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "探讨2026年江门正规装修公司,专业装修公司价格怎么收费_商业资讯-商业新知",
+          "url": "http://www.shangyexinzhi.com/article/details/id-31936223/",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "梵享高定",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jiangmen.to8to.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门十大装修公司排名榜,装修公司排名前十强-土巴兔江门装修网-土巴兔江门装修网",
+          "url": "https://jiangmen.to8to.com/top/company/",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "欧铂丽",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "珠江装饰",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "mp.weixin.qq.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "珠江装饰丨绿城滨江·潮闻东方:270°IMAX级江景视野豪宅精装",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzA4MzQ4NTk2Ng==&mid=2652257867&idx=1&sn=67df7a6486d1493b73af7a76debb000c&chksm=85704328dc5c95f8584f8d0fd5d6e0b437724d66366cbad7ec6545a58bfbca7fe8612c984f36#rd",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 1,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 0
+    },
+    {
+      "brand": "红杉树装饰",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "cnblogs.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026年广州知名装修公司口碑榜,本地业主实测靠谱推荐! - 商业新知 - 企业博客",
+          "url": "https://www.cnblogs.com/GEO-AI/p/20103576",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "麦格门窗",
+      "count": 1,
+      "average_rank": 2.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "sohu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门钻石楼梯产业带:2026年基于石材工艺与源头定制的实力企业深度观察",
+          "url": "https://www.sohu.com/a/1024875648_122700558",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "DT高端定制",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jiangmen.to8to.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门十大装修公司排名榜,装修公司排名前十强-土巴兔江门装修网-土巴兔江门装修网",
+          "url": "https://jiangmen.to8to.com/top/company/",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "Rimadesio",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "三星装饰",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "东易日盛",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "建雅摩托",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "sohu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门钻石楼梯产业带:2026年基于石材工艺与源头定制的实力企业深度观察",
+          "url": "https://www.sohu.com/a/1024875648_122700558",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "法曼威",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "shzh.net",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "精装房改造怎么做更划算?从验房到翻新,业主必看的二次装修避坑指南",
+          "url": "https://m.shzh.net/baike/detail-9549",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "生活家装饰",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "简艺空间设计",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "美域高定",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "腾辉机械",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门索菲亚全屋定制贵不贵?环保与性价比双优解析-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25365.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 1,
+      "third_party_count": 0,
+      "official_share": 1.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    },
+    {
+      "brand": "艾特空间设计",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "顶固",
+      "count": 1,
+      "average_rank": 3.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门索菲亚门店地址查询,装修选对环保又省心-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25187.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 1,
+      "third_party_count": 0,
+      "official_share": 1.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    },
+    {
+      "brand": "壹品装饰",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "壹方精筑",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "尚度全屋家居",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "zhaopin.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门市新众拓工程有限公司招聘 - 智联招聘",
+          "url": "https://m.zhaopin.com/company/CZ514083180.htm",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 1,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 0
+    },
+    {
+      "brand": "居研设计",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "建三设计",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "mfang.58.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门装修公司十大排名 江门知名装修公司推荐-58同城",
+          "url": "https://mfang.58.com/sh/news/30/786822.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "恒锐石材",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "sohu.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门钻石楼梯产业带:2026年基于石材工艺与源头定制的实力企业深度观察",
+          "url": "https://www.sohu.com/a/1024875648_122700558",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "未来式",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "shzh.net",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "精装房改造怎么做更划算?从验房到翻新,业主必看的二次装修避坑指南",
+          "url": "https://m.shzh.net/baike/detail-9549",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "点睛设计",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "简一全屋定制",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "美景皮革",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门索菲亚全屋定制贵不贵?环保与性价比双优解析-装修攻略-索菲亚全屋定制",
+          "url": "https://m.suofeiya.com/gonglue/25365.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 1,
+      "third_party_count": 0,
+      "official_share": 1.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    },
+    {
+      "brand": "联邦高登",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jmlaokazz.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门劳卡整装|江门市一冠家居用品有限公司|专注整装套餐装修、全屋定制、老房翻新",
+          "url": "https://www.jmlaokazz.com/",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 1,
+      "third_party_count": 0,
+      "official_share": 1.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    },
+    {
+      "brand": "鸿艺源设计",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "bjnews.com.cn",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026广州全屋定制品牌横评榜单:高端品牌的定制工艺与装修风格深度对比 — 新京报",
+          "url": "https://www.bjnews.com.cn/detail/1776493697129538.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "鼎饰空间",
+      "count": 1,
+      "average_rank": 4.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jiangmen.yzx315.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门装修网_江门装修公司排名,设计报价,招标信息平台_买家宝-江门装修网",
+          "url": "http://jiangmen.yzx315.com/",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "优家装饰",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "to8to.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026广州装修避坑完整版:8家本土实力派装企分户型深度对比-土巴兔装修网",
+          "url": "https://www.to8to.com/yezhu/z362008.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "伯爵家居",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jiangmen-bjjjqwdz-yqyjiguq4c.qiye.yunucms.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "4.\n江门全屋定制/衣柜定制/全屋整装公司-服务广东江门江海|鹤山|恩平|开平|蓬江-伯爵家居(更新时间:2026-07-22 15:12:55)",
+          "url": "http://jiangmen-bjjjqwdz-yqyjiguq4c.qiye.yunucms.com/",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "境垣空间设计",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jmlaokazz.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门劳卡整装|江门市一冠家居用品有限公司|专注整装套餐装修、全屋定制、老房翻新",
+          "url": "https://www.jmlaokazz.com/",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 1,
+      "third_party_count": 0,
+      "official_share": 1.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    },
+    {
+      "brand": "壹家装饰",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "强立",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门高端定制品牌",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "lfnews.cn",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "摩托车配件/哈雷摩托车配件/摩托车坐垫/哈雷摩托车坐垫品牌批发厂家专题:强立布局广 ... - 财经 - 廊坊新闻网 - 权威媒体 廊坊门户",
+          "url": "https://www.lfnews.cn/portal.php?aid=113900&mod=view",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 1,
+      "unsupported_count": 0,
+      "unverified_count": 0
+    },
+    {
+      "brand": "永庆装饰",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门装修",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "fjpce.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "江门装修公司推荐本地人私藏的6家口碑老牌公司避坑指南附真实案例",
+          "url": "http://www.fjpce.com/6573.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "点石设计",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "江门本地品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "百安居装饰",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "jiangmen.zx123.cn",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "2026江门装修公司十大排名 - 江门装修公司哪家好 -",
+          "url": "https://jiangmen.zx123.cn/gspm/",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 0,
+      "third_party_count": 1,
+      "official_share": 0.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "百得胜",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋定制",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "红星美凯龙",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "金螳螂·家",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "全国/跨区域品牌",
+      "main_tracks": [
+        {
+          "track": "江门全屋设计",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [],
+      "most_cited_pages": [],
+      "linked_count": 0,
+      "official_count": 0,
+      "third_party_count": 0,
+      "official_share": null,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 0,
+      "unverified_count": 1
+    },
+    {
+      "brand": "非意装饰",
+      "count": 1,
+      "average_rank": 5.0,
+      "brand_scope": "其他/未判定",
+      "main_tracks": [
+        {
+          "track": "楼盘场景",
+          "count": 1
+        }
+      ],
+      "most_cited_sites": [
+        {
+          "site": "suofeiya.com",
+          "count": 1
+        }
+      ],
+      "most_cited_pages": [
+        {
+          "title": "广州全屋定制十大排名,口碑品牌推荐省心又靠谱-装修攻略-索菲亚全屋定制",
+          "url": "https://www.suofeiya.com/gonglue/24981.html",
+          "count": 1
+        }
+      ],
+      "linked_count": 1,
+      "official_count": 1,
+      "third_party_count": 0,
+      "official_share": 1.0,
+      "valid_count": 0,
+      "partial_count": 0,
+      "unsupported_count": 1,
+      "unverified_count": 0
+    }
+  ],
+  "track_top10": {
+    "江门全屋定制": [
+      {
+        "brand": "索菲亚",
+        "count": 22,
+        "average_rank": 2.0,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "欧派",
+        "count": 21,
+        "average_rank": 2.48,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 15,
+        "average_rank": 1.4,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 10,
+        "average_rank": 2.1,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 8,
+        "average_rank": 3.88,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "佰怡家",
+        "count": 6,
+        "average_rank": 2.67,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "斯米帝",
+        "count": 5,
+        "average_rank": 3.2,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "杰普家居",
+        "count": 5,
+        "average_rank": 3.4,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 5,
+        "average_rank": 3.8,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "维意定制",
+        "count": 3,
+        "average_rank": 2.67,
+        "brand_scope": "全国/跨区域品牌"
+      }
+    ],
+    "江门装修": [
+      {
+        "brand": "星艺装饰",
+        "count": 21,
+        "average_rank": 1.95,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 20,
+        "average_rank": 2.35,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 20,
+        "average_rank": 2.4,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 14,
+        "average_rank": 3.29,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "峰尚汇装饰",
+        "count": 9,
+        "average_rank": 2.67,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "华美乐装饰",
+        "count": 9,
+        "average_rank": 3.0,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 9,
+        "average_rank": 3.11,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "华宁装饰",
+        "count": 4,
+        "average_rank": 2.75,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "木晟美家装饰",
+        "count": 3,
+        "average_rank": 3.67,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 3,
+        "average_rank": 4.0,
+        "brand_scope": "江门本地品牌"
+      }
+    ],
+    "江门高端定制品牌": [
+      {
+        "brand": "健威家居",
+        "count": 13,
+        "average_rank": 1.46,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "盛世周木匠",
+        "count": 12,
+        "average_rank": 1.75,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "威法",
+        "count": 7,
+        "average_rank": 2.71,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "木里木外",
+        "count": 7,
+        "average_rank": 2.86,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "欧派",
+        "count": 7,
+        "average_rank": 3.14,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "博洛尼",
+        "count": 7,
+        "average_rank": 3.29,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "索菲亚",
+        "count": 7,
+        "average_rank": 3.29,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "图森",
+        "count": 5,
+        "average_rank": 2.4,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "斯米帝",
+        "count": 5,
+        "average_rank": 2.8,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "森润整木",
+        "count": 5,
+        "average_rank": 3.2,
+        "brand_scope": "江门本地品牌"
+      }
+    ],
+    "江门高端装修": [
+      {
+        "brand": "名匠装饰",
+        "count": 22,
+        "average_rank": 2.55,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 21,
+        "average_rank": 2.43,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 19,
+        "average_rank": 2.63,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 10,
+        "average_rank": 2.5,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 7,
+        "average_rank": 1.86,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "居众装饰",
+        "count": 7,
+        "average_rank": 2.43,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "峰尚汇装饰",
+        "count": 6,
+        "average_rank": 2.67,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 6,
+        "average_rank": 4.33,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 4,
+        "average_rank": 2.0,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "尚层装饰",
+        "count": 3,
+        "average_rank": 3.67,
+        "brand_scope": "全国/跨区域品牌"
+      }
+    ],
+    "江门全屋设计": [
+      {
+        "brand": "华浔品味装饰",
+        "count": 17,
+        "average_rank": 2.59,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 16,
+        "average_rank": 2.25,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 12,
+        "average_rank": 2.33,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 9,
+        "average_rank": 1.78,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 8,
+        "average_rank": 3.25,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "索菲亚",
+        "count": 7,
+        "average_rank": 3.0,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "峰尚汇装饰",
+        "count": 6,
+        "average_rank": 2.17,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "欧派",
+        "count": 6,
+        "average_rank": 3.5,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "木晟美家装饰",
+        "count": 5,
+        "average_rank": 2.8,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "森之原装饰",
+        "count": 4,
+        "average_rank": 2.25,
+        "brand_scope": "江门本地品牌"
+      }
+    ],
+    "楼盘场景": [
+      {
+        "brand": "欧派",
+        "count": 11,
+        "average_rank": 2.64,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "索菲亚",
+        "count": 10,
+        "average_rank": 2.0,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "华浔品味装饰",
+        "count": 10,
+        "average_rank": 2.5,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "健威家居",
+        "count": 7,
+        "average_rank": 1.43,
+        "brand_scope": "江门本地品牌"
+      },
+      {
+        "brand": "名匠装饰",
+        "count": 6,
+        "average_rank": 2.17,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "名雕装饰",
+        "count": 6,
+        "average_rank": 2.17,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "星艺装饰",
+        "count": 6,
+        "average_rank": 2.33,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "劳卡",
+        "count": 5,
+        "average_rank": 3.4,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "尚品宅配",
+        "count": 4,
+        "average_rank": 3.5,
+        "brand_scope": "全国/跨区域品牌"
+      },
+      {
+        "brand": "轩怡装饰",
+        "count": 3,
+        "average_rank": 2.33,
+        "brand_scope": "全国/跨区域品牌"
+      }
+    ]
+  },
+  "source_type_stats": [
+    {
+      "source_type": "品牌官网",
+      "recommendation_rows": 213,
+      "unique_urls": 59,
+      "valid": 104,
+      "partial": 9,
+      "unsupported": 76,
+      "unverified": 24
+    },
+    {
+      "source_type": "未提供链接",
+      "recommendation_rows": 145,
+      "unique_urls": 0,
+      "valid": 0,
+      "partial": 0,
+      "unsupported": 0,
+      "unverified": 145
+    },
+    {
+      "source_type": "软文/转载平台",
+      "recommendation_rows": 118,
+      "unique_urls": 26,
+      "valid": 27,
+      "partial": 0,
+      "unsupported": 4,
+      "unverified": 87
+    },
+    {
+      "source_type": "内容平台",
+      "recommendation_rows": 96,
+      "unique_urls": 36,
+      "valid": 14,
+      "partial": 9,
+      "unsupported": 20,
+      "unverified": 53
+    },
+    {
+      "source_type": "其他网站",
+      "recommendation_rows": 59,
+      "unique_urls": 35,
+      "valid": 19,
+      "partial": 7,
+      "unsupported": 7,
+      "unverified": 26
+    },
+    {
+      "source_type": "行业平台",
+      "recommendation_rows": 49,
+      "unique_urls": 23,
+      "valid": 18,
+      "partial": 4,
+      "unsupported": 0,
+      "unverified": 27
+    },
+    {
+      "source_type": "企业信息/百科",
+      "recommendation_rows": 27,
+      "unique_urls": 9,
+      "valid": 9,
+      "partial": 1,
+      "unsupported": 2,
+      "unverified": 15
+    },
+    {
+      "source_type": "地图、点评平台",
+      "recommendation_rows": 20,
+      "unique_urls": 7,
+      "valid": 1,
+      "partial": 0,
+      "unsupported": 10,
+      "unverified": 9
+    },
+    {
+      "source_type": "政府或官方机构",
+      "recommendation_rows": 15,
+      "unique_urls": 2,
+      "valid": 0,
+      "partial": 0,
+      "unsupported": 0,
+      "unverified": 15
+    },
+    {
+      "source_type": "权威媒体",
+      "recommendation_rows": 15,
+      "unique_urls": 5,
+      "valid": 0,
+      "partial": 1,
+      "unsupported": 0,
+      "unverified": 14
+    }
+  ],
+  "scope_stats": [
+    {
+      "scope": "江门本地品牌",
+      "recommendation_rows": 211,
+      "unique_brands": 36,
+      "average_rank": 2.7,
+      "unique_questions": 124,
+      "linked_rows": 194,
+      "valid_or_partial": 78
+    },
+    {
+      "scope": "全国/跨区域品牌",
+      "recommendation_rows": 518,
+      "unique_brands": 45,
+      "average_rank": 2.7,
+      "unique_questions": 168,
+      "linked_rows": 396,
+      "valid_or_partial": 143
+    },
+    {
+      "scope": "其他/未判定",
+      "recommendation_rows": 28,
+      "unique_brands": 24,
+      "average_rank": 3.07,
+      "unique_questions": 21,
+      "linked_rows": 22,
+      "valid_or_partial": 2
+    }
+  ],
+  "platform_stats": [
+    {
+      "platform": "DeepSeek",
+      "sample_count": 36,
+      "samples_with_recommendations": 36,
+      "zero_recommendation_samples": 0,
+      "recommendation_rows": 141,
+      "unique_brands": 46,
+      "linked_rows": 0,
+      "valid": 0,
+      "partial": 0,
+      "unsupported": 0,
+      "unverified": 141
+    },
+    {
+      "platform": "千问",
+      "sample_count": 36,
+      "samples_with_recommendations": 34,
+      "zero_recommendation_samples": 2,
+      "recommendation_rows": 140,
+      "unique_brands": 45,
+      "linked_rows": 140,
+      "valid": 43,
+      "partial": 3,
+      "unsupported": 25,
+      "unverified": 69
+    },
+    {
+      "platform": "文心一言",
+      "sample_count": 36,
+      "samples_with_recommendations": 36,
+      "zero_recommendation_samples": 0,
+      "recommendation_rows": 152,
+      "unique_brands": 44,
+      "linked_rows": 152,
+      "valid": 31,
+      "partial": 7,
+      "unsupported": 25,
+      "unverified": 89
+    },
+    {
+      "platform": "腾讯元宝",
+      "sample_count": 36,
+      "samples_with_recommendations": 36,
+      "zero_recommendation_samples": 0,
+      "recommendation_rows": 156,
+      "unique_brands": 37,
+      "linked_rows": 152,
+      "valid": 36,
+      "partial": 4,
+      "unsupported": 18,
+      "unverified": 98
+    },
+    {
+      "platform": "豆包",
+      "sample_count": 36,
+      "samples_with_recommendations": 36,
+      "zero_recommendation_samples": 0,
+      "recommendation_rows": 168,
+      "unique_brands": 33,
+      "linked_rows": 168,
+      "valid": 82,
+      "partial": 17,
+      "unsupported": 51,
+      "unverified": 18
+    }
+  ],
+  "repeated_titles_across_sites": [
+    {
+      "title": "名匠装饰官网-装修公司-别墅装修设计-新中式别墅装修-大宅装修价格",
+      "sites": [
+        "jm.mjzs.cn",
+        "mjdec.com"
+      ],
+      "urls": [
+        "http://m.jm.mjzs.cn/",
+        "http://m.mjdec.com/",
+        "http://www.mjdec.com/",
+        "https://www.mjdec.com/"
+      ]
+    },
+    {
+      "title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+      "sites": [
+        "homello.cc",
+        "homello.com"
+      ],
+      "urls": [
+        "https://homello.cc/?city=5",
+        "https://www.homello.com/?city=5",
+        "https://www.homello.com/index.php?city=5",
+        "https://www.homello.com/m/article-show-13-373.html?city=5",
+        "https://www.homello.com/m/article-show-9-417.html?city=5",
+        "https://www.homello.com/m/article-show-9-585.html?city=5",
+        "https://www.homello.com/m/article-show-9-633.html?city=5",
+        "https://www.homello.com/m?city=5"
+      ]
+    },
+    {
+      "title": "名雕装饰介绍|评价|口碑|装修案例效果图|设计师-齐家装修网",
+      "sites": [
+        "jia.com",
+        "zixun.m.jia.com"
+      ],
+      "urls": [
+        "http://zixun.m.jia.com/company/detail-33343/",
+        "https://m.jia.com/company/detail-33343/"
+      ]
+    }
+  ],
+  "link_validation": [
+    {
+      "url": "http://finance.stockstar.com/IG2026012100012662.shtml",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "http://finance.stockstar.com/IG2026012100012662.shtml",
+      "page_title": "索菲亚全案定制战略发布:以“一体化交付”破解家装行业确定性难题_财经频道_证券之星",
+      "publication_date": "未核验",
+      "text_length": 4070,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "finance.stockstar.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "http://hn.lehome114.com/zqyx_detail-id-1122.html",
+      "requested_brands": [
+        "劳卡"
+      ],
+      "status": 200,
+      "final_url": "http://hn.lehome114.com/zqyx_detail-id-1122.html",
+      "page_title": "2025江门装修公司测评:劳卡整装与本地家装评测对比|乐家装企营销平台",
+      "publication_date": "未核验",
+      "text_length": 3645,
+      "brand_hits": [
+        "劳卡"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "hn.lehome114.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "http://jiangmen-bjjjqwdz-yqyjiguq4c.qiye.yunucms.com/",
+      "requested_brands": [
+        "伯爵家居"
+      ],
+      "status": 502,
+      "final_url": "http://jiangmen-bjjjqwdz-yqyjiguq4c.qiye.yunucms.com/",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": false,
+      "error": "HTTP 502",
+      "site": "jiangmen-bjjjqwdz-yqyjiguq4c.qiye.yunucms.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "http://jiangmen.xydec.com.cn/",
+      "requested_brands": [
+        "星艺装饰"
+      ],
+      "status": 200,
+      "final_url": "http://jiangmen.xydec.com.cn/",
+      "page_title": "星艺装饰江门公司-装饰装修行业本地品牌-专注高品质家装、豪宅、别墅设计施工!",
+      "publication_date": "未核验",
+      "text_length": 1938,
+      "brand_hits": [
+        "星艺装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jiangmen.xydec.com.cn",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://jm.hndec.com",
+      "requested_brands": [
+        "华宁装饰"
+      ],
+      "status": 200,
+      "final_url": "http://jm.hndec.com",
+      "page_title": "江门华宁装饰_要装饰就选华宁装饰-华宁装饰江门分公司-别墅大宅家装 装修效果图设计",
+      "publication_date": "未核验",
+      "text_length": 2092,
+      "brand_hits": [
+        "华宁装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jm.hndec.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "http://jmnews.com.cn/fc/content/2024-04/03/content_2681440.htm",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "http://jmnews.com.cn/fc/content/2024-04/03/content_2681440.htm",
+      "page_title": "房产家居-江门新闻网.江门综合门户网站",
+      "publication_date": "2024-04-03",
+      "text_length": 1292,
+      "brand_hits": [
+        "健威家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jmnews.com.cn",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "http://m.anjuke.com/jm/jiancai/md46646?is_title_transparent=1",
+      "requested_brands": [
+        "欧派"
+      ],
+      "status": 200,
+      "final_url": "https://m.anjuke.com/esfcommon-captcha-wy?history=aHR0cHM6Ly9tLmFuanVrZS5jb20vam0vamlhbmNhaS9tZDQ2NjQ2P2lzX3RpdGxlX3RyYW5zcGFyZW50PTE=&namespace=anjuke_zhuangxiu_m&serialID=211dc8e007a3018a2c6d960ece34e9a7_4a53f091c57d40b0bc079d5dca205a14&callback=shield&from=antispam",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 502,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "anjuke.com",
+      "source_type": "地图、点评平台"
+    },
+    {
+      "url": "http://m.anjuke.com/jm/zx/gongsi/m31338",
+      "requested_brands": [
+        "星艺装饰"
+      ],
+      "status": 200,
+      "final_url": "https://m.anjuke.com/esfcommon-captcha-wy?history=aHR0cHM6Ly9tLmFuanVrZS5jb20vam0vengvZ29uZ3NpL20zMTMzOA==&namespace=anjuke_zhuangxiu_m&serialID=211dc8e007a3018a2c6d960ece34e9a7_69154d26214a4f88b444a3dc40cbe233&callback=shield&from=antispam",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 476,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "anjuke.com",
+      "source_type": "地图、点评平台"
+    },
+    {
+      "url": "http://m.jc001.cn/news/979039.html",
+      "requested_brands": [
+        "盛世周木匠"
+      ],
+      "status": 200,
+      "final_url": "http://m.jc001.cn/news/979039.html",
+      "page_title": "广东红木家具头部品牌盛世周木匠:全品类红木家具与全屋整装一站式解决方案 - 新闻中心 - 九正建材网手机版",
+      "publication_date": "未核验",
+      "text_length": 2504,
+      "brand_hits": [
+        "盛世周木匠"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jc001.cn",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "http://m.jiangmen.xydec.com.cn/",
+      "requested_brands": [
+        "星艺装饰"
+      ],
+      "status": 200,
+      "final_url": "http://m.jiangmen.xydec.com.cn/",
+      "page_title": "星艺装饰江门公司-装饰装修行业本地品牌-专注高品质家装、豪宅、别墅设计施工!",
+      "publication_date": "未核验",
+      "text_length": 2036,
+      "brand_hits": [
+        "星艺装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jiangmen.xydec.com.cn",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://m.jm.mjdec.com/",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "http://m.jm.mjdec.com/",
+      "page_title": "江门名匠装饰_江门装修公司_名匠装饰江门公司_江门别墅大宅装修设计",
+      "publication_date": "未核验",
+      "text_length": 5278,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jm.mjdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://m.jm.mjzs.cn/",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.mjdec.com/",
+      "page_title": "名匠装饰官网-装修公司-别墅装修设计-新中式别墅装修-大宅装修价格",
+      "publication_date": "未核验",
+      "text_length": 3339,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jm.mjzs.cn",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://m.mjdec.com/",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "http://m.mjdec.com/",
+      "page_title": "名匠装饰官网-装修公司-别墅装修设计-新中式别墅装修-大宅装修价格",
+      "publication_date": "未核验",
+      "text_length": 4743,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mjdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://m.qzuang.com/show/166362.html",
+      "requested_brands": [
+        "华浔品味装饰"
+      ],
+      "status": 403,
+      "final_url": "http://m.qzuang.com/show/166362.html",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": false,
+      "error": "HTTP 403",
+      "site": "qzuang.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "http://m.redhongan.com/p/241228.html",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "http://m.redhongan.com/p/241228.html",
+      "page_title": "2026阳江装修公司口碑排行|本地人真实测评!中高端整装标杆,名匠装饰凭21项专利+20年质保出圈",
+      "publication_date": "未核验",
+      "text_length": 3253,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "redhongan.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "http://m.simidi.com.cn/col.jsp?id=103",
+      "requested_brands": [
+        "斯米帝"
+      ],
+      "status": 200,
+      "final_url": "http://m.simidi.com.cn/col.jsp?id=103",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 12805,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "simidi.com.cn",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://m.toutiao.com/group/7661831679429886474/",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://www.toutiao.com/article/7661831679429886474/?&source=m_redirect",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "toutiao.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "http://m.toutiao.com/group/7661841303080157705/",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://www.toutiao.com/article/7661841303080157705/?&source=m_redirect",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "toutiao.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "http://m.toutiao.com/group/7662641577084404267/",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://www.toutiao.com/article/7662641577084404267/?&source=m_redirect",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "toutiao.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "http://m.tusudz.com/",
+      "requested_brands": [
+        "图斯家居"
+      ],
+      "status": 200,
+      "final_url": "http://m.tusudz.com/",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 11944,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "tusudz.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "http://m.xingyizz.com/",
+      "requested_brands": [
+        "星艺装饰"
+      ],
+      "status": 200,
+      "final_url": "http://m.xingyizz.com/",
+      "page_title": "星艺装饰整装全案中心(广州天河创展店)-34年品质装修公司官网",
+      "publication_date": "未核验",
+      "text_length": 2367,
+      "brand_hits": [
+        "星艺装饰"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "xingyizz.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://mp.weixin.qq.com/s?__biz=MjM5MTY1NzU2MQ==&mid=2649510735&idx=1&sn=e849f5ec8e806fad3dd2a265e7b07c93&chksm=bf5c1e9005245dcefe7524867bd08d259d655bfac6c0fcb9035e90be2a95769778f903e92508#rd",
+      "requested_brands": [
+        "卡芬达家居"
+      ],
+      "status": 200,
+      "final_url": "https://mp.weixin.qq.com/s?__biz=MjM5MTY1NzU2MQ==&mid=2649510735&idx=1&sn=e849f5ec8e806fad3dd2a265e7b07c93&chksm=bf5c1e9005245dcefe7524867bd08d259d655bfac6c0fcb9035e90be2a95769778f903e92508#rd",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 655305,
+      "brand_hits": [
+        "卡芬达家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mp.weixin.qq.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA4MzQ4NTk2Ng==&mid=2652257867&idx=1&sn=67df7a6486d1493b73af7a76debb000c&chksm=85704328dc5c95f8584f8d0fd5d6e0b437724d66366cbad7ec6545a58bfbca7fe8612c984f36#rd",
+      "requested_brands": [
+        "珠江装饰"
+      ],
+      "status": 200,
+      "final_url": "https://mp.weixin.qq.com/s?__biz=MzA4MzQ4NTk2Ng==&mid=2652257867&idx=1&sn=67df7a6486d1493b73af7a76debb000c&chksm=85704328dc5c95f8584f8d0fd5d6e0b437724d66366cbad7ec6545a58bfbca7fe8612c984f36#rd",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 700896,
+      "brand_hits": [
+        "珠江装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mp.weixin.qq.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg2MDgyNzQxMQ==&mid=2247493663&idx=1&sn=d0acb487ca43ac73bf0faa23f8fc576f&chksm=cf4f5b089e615bb5feee9184cbeb03bc3258bdfc8d95d6cb9fd8dd2b00c22fe832dc684cd7f8#rd",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDgyNzQxMQ==&mid=2247493663&idx=1&sn=d0acb487ca43ac73bf0faa23f8fc576f&chksm=cf4f5b089e615bb5feee9184cbeb03bc3258bdfc8d95d6cb9fd8dd2b00c22fe832dc684cd7f8#rd",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 642960,
+      "brand_hits": [
+        "健威家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mp.weixin.qq.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg2MDgyNzQxMQ==&mid=2247493872&idx=1&sn=bb0165a8e1da6017d09ea175412ef4dc&chksm=cfedcc76242ffbc1a942522419ac72e143f2d2fd7bedbc44a88d6c4e103ae10d2bc2811abdbb#rd",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDgyNzQxMQ==&mid=2247493872&idx=1&sn=bb0165a8e1da6017d09ea175412ef4dc&chksm=cfedcc76242ffbc1a942522419ac72e143f2d2fd7bedbc44a88d6c4e103ae10d2bc2811abdbb#rd",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 604404,
+      "brand_hits": [
+        "健威家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mp.weixin.qq.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg2MDgyNzQxMQ==&mid=2247494153&idx=1&sn=82af08eee2a2eab150287618bf35a509&chksm=cfbfec4f95cb28a5b1b12c6b8a4836437ce47db43bb223d4de0b4c6b127db10c898f1277eadb#rd",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDgyNzQxMQ==&mid=2247494153&idx=1&sn=82af08eee2a2eab150287618bf35a509&chksm=cfbfec4f95cb28a5b1b12c6b8a4836437ce47db43bb223d4de0b4c6b127db10c898f1277eadb#rd",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 614908,
+      "brand_hits": [
+        "健威家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mp.weixin.qq.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1785122106&ver=6867&signature=vkpXrZAhZnYJHG5DqY6YNEt-cFnDMQLGfab9zxqk0l2B8l1KHrDFSNgx*F8hn-YbEBf3QzlY7-T*Ky8Q78UgYl04KrjKtZCk5V8Lr9z5CPqx68sQxwE9F*tRBwYY9Qnr&new=1",
+      "requested_brands": [
+        "绿城M·确幸家"
+      ],
+      "status": 200,
+      "final_url": "https://mp.weixin.qq.com/s?src=11&timestamp=1785122106&ver=6867&signature=vkpXrZAhZnYJHG5DqY6YNEt-cFnDMQLGfab9zxqk0l2B8l1KHrDFSNgx*F8hn-YbEBf3QzlY7-T*Ky8Q78UgYl04KrjKtZCk5V8Lr9z5CPqx68sQxwE9F*tRBwYY9Qnr&new=1",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 76,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "mp.weixin.qq.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "http://www.0554zsw.cn/zsw_detail-id-319.html",
+      "requested_brands": [
+        "劳卡"
+      ],
+      "status": 200,
+      "final_url": "http://www.0554zsw.cn/zsw_detail-id-319.html",
+      "page_title": "本土深耕铸实力|江门劳卡整装官网正式上线|淮南装修建材网-淮南本地家装便民服务平台",
+      "publication_date": "未核验",
+      "text_length": 3665,
+      "brand_hits": [
+        "劳卡"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "0554zsw.cn",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "http://www.chaojimendian.com.cn/cjmd_detail-id-678.html",
+      "requested_brands": [
+        "劳卡"
+      ],
+      "status": 200,
+      "final_url": "http://www.chaojimendian.com.cn/cjmd_detail-id-678.html",
+      "page_title": "本土深耕铸实力|江门劳卡整装官网正式上线|超级门店服务网-装修门店全域数字化赋能服务平台",
+      "publication_date": "未核验",
+      "text_length": 3709,
+      "brand_hits": [
+        "劳卡"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "chaojimendian.com.cn",
+      "source_type": "软文/转载平台"
+    },
+    {
+      "url": "http://www.mjdec.com/",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.mjdec.com/",
+      "page_title": "名匠装饰官网-装修公司-别墅装修设计-新中式别墅装修-大宅装修价格",
+      "publication_date": "未核验",
+      "text_length": 3339,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mjdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://www.simidi.com.cn",
+      "requested_brands": [
+        "斯米帝"
+      ],
+      "status": 200,
+      "final_url": "http://www.simidi.com.cn",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 10618,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "simidi.com.cn",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://www.simidi.com.cn?_siteurl/",
+      "requested_brands": [
+        "斯米帝"
+      ],
+      "status": 200,
+      "final_url": "http://www.simidi.com.cn?_siteurl/",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 11882,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "simidi.com.cn",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://www.sszmj.com/content-24-101-1.html",
+      "requested_brands": [
+        "盛世周木匠"
+      ],
+      "status": 200,
+      "final_url": "http://www.sszmj.com/content-24-101-1.html",
+      "page_title": "江门整装定制品牌盛世周木匠:匠心筑家,定制你的理想生活 - 企业动态 - 江门市品家家具有限公司旗下品牌-盛世周木匠红木家具官网",
+      "publication_date": "未核验",
+      "text_length": 2226,
+      "brand_hits": [
+        "盛世周木匠"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "sszmj.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://www.sszmj.com/content-24-99-1.html",
+      "requested_brands": [
+        "盛世周木匠"
+      ],
+      "status": 200,
+      "final_url": "http://www.sszmj.com/content-24-99-1.html",
+      "page_title": "江门整装定制品牌:盛世周木匠焕新当代红木整装空间美学 - 企业动态 - 江门市品家家具有限公司旗下品牌-盛世周木匠红木家具官网",
+      "publication_date": "未核验",
+      "text_length": 1536,
+      "brand_hits": [
+        "盛世周木匠"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "sszmj.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://www.sszmj.com/list-3-1.html",
+      "requested_brands": [
+        "盛世周木匠"
+      ],
+      "status": 200,
+      "final_url": "http://www.sszmj.com/list-3-1.html",
+      "page_title": "江门市品家家具有限公司旗下品牌-盛世周木匠红木家具官网",
+      "publication_date": "未核验",
+      "text_length": 2163,
+      "brand_hits": [
+        "盛世周木匠"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "sszmj.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "http://www.tianyancha.com/scertificate/424820141-8bfa",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://www.tianyancha.com/login?from=%2Fcompany%2F424820141%3F_fccc%3D5ec34356-34aa8641",
+      "page_title": "天眼查-商业查询平台_企业信息查询_公司查询_工商查询_企业信用信息系统",
+      "publication_date": "未核验",
+      "text_length": 695,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "tianyancha.com",
+      "source_type": "企业信息/百科"
+    },
+    {
+      "url": "http://zixun.m.jia.com/company/detail-33343/",
+      "requested_brands": [
+        "名雕装饰"
+      ],
+      "status": 200,
+      "final_url": "http://zixun.m.jia.com/company/detail-33343/",
+      "page_title": "名雕装饰介绍|评价|口碑|装修案例效果图|设计师-齐家装修网",
+      "publication_date": "未核验",
+      "text_length": 1374,
+      "brand_hits": [
+        "名雕装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "zixun.m.jia.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://aiqicha.baidu.com/details/ugknowledge?id=141adfb39c37d70ca6f79fcb4a536421",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "https://aiqicha.baidu.com/details/ugknowledge?id=141adfb39c37d70ca6f79fcb4a536421",
+      "page_title": "广东名匠装饰集团有限公司",
+      "publication_date": "2026-07-19",
+      "text_length": 12,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "aiqicha.baidu.com",
+      "source_type": "企业信息/百科"
+    },
+    {
+      "url": "https://baijiahao.baidu.com/s?id=1859243659083934607&wfr=spider&for=pc",
+      "requested_brands": [
+        "如鱼得水"
+      ],
+      "status": 200,
+      "final_url": "https://baijiahao.baidu.com/s?id=1859243659083934607&wfr=spider&for=pc",
+      "page_title": "2026年全屋窗帘定制品牌TOP推荐",
+      "publication_date": "未核验",
+      "text_length": 2160,
+      "brand_hits": [
+        "如鱼得水"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "baijiahao.baidu.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://baijiahao.baidu.com/s?id=1865880663752353066&wfr=spider&for=pc",
+      "requested_brands": [
+        "米兰软装"
+      ],
+      "status": 200,
+      "final_url": "https://baijiahao.baidu.com/s?id=1865880663752353066&wfr=spider&for=pc",
+      "page_title": "2026家居升级|窗帘选购全攻略+靠谱品牌清单,新手照着买不踩雷",
+      "publication_date": "未核验",
+      "text_length": 3893,
+      "brand_hits": [
+        "米兰软装"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "baijiahao.baidu.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://baijiahao.baidu.com/s?id=1871751998233864335&wfr=spider&for=pc",
+      "requested_brands": [
+        "科凡高定"
+      ],
+      "status": 200,
+      "final_url": "https://baijiahao.baidu.com/s?id=1871751998233864335&wfr=spider&for=pc",
+      "page_title": "2026全屋定制品牌:揭秘科凡高定与主流品牌在智造工艺与一体化设计上的差异化表现",
+      "publication_date": "未核验",
+      "text_length": 6185,
+      "brand_hits": [
+        "科凡高定"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "baijiahao.baidu.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://baike.baidu.com/item/%E6%B1%9F%E9%97%A8%E5%81%A5%E5%A8%81%E5%AE%B6%E5%85%B7%E8%A3%85%E9%A5%B0%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19987521",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://baike.baidu.com/item/%E6%B1%9F%E9%97%A8%E5%81%A5%E5%A8%81%E5%AE%B6%E5%85%B7%E8%A3%85%E9%A5%B0%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19987521",
+      "page_title": "江门健威家具装饰有限公司_百度百科",
+      "publication_date": "2026-02-04",
+      "text_length": 5208,
+      "brand_hits": [
+        "健威家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "baike.baidu.com",
+      "source_type": "企业信息/百科"
+    },
+    {
+      "url": "https://baike.baidu.com/item/%E6%B1%9F%E9%97%A8%E5%B8%82%E6%9D%B0%E6%99%AE%E5%AE%B6%E5%85%B7%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/16260554",
+      "requested_brands": [
+        "杰普家居"
+      ],
+      "status": 200,
+      "final_url": "https://baike.baidu.com/item/%E6%B1%9F%E9%97%A8%E5%B8%82%E6%9D%B0%E6%99%AE%E5%AE%B6%E5%85%B7%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/16260554",
+      "page_title": "江门市杰普家具有限公司_百度百科",
+      "publication_date": "2025-07-19",
+      "text_length": 2018,
+      "brand_hits": [
+        "杰普家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "baike.baidu.com",
+      "source_type": "企业信息/百科"
+    },
+    {
+      "url": "https://baike.sogou.com/v60688419.htm",
+      "requested_brands": [
+        "尚筑品家装饰"
+      ],
+      "status": 200,
+      "final_url": "https://baike.sogou.com/v60688419.htm",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "baike.sogou.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://biz.ifeng.com/c/8v6GhMy8M25",
+      "requested_brands": [
+        "嘉年华装饰"
+      ],
+      "status": 200,
+      "final_url": "https://biz.ifeng.com/c/8v6GhMy8M25",
+      "page_title": "2026广州装修公司深度解析:24年本土老牌嘉年华装饰,70% 回头率标杆装企推荐_凤凰网商业_凤凰网",
+      "publication_date": "未核验",
+      "text_length": 3958,
+      "brand_hits": [
+        "嘉年华装饰"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "biz.ifeng.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://bj.lieju.com/qitashangwufuwu/95290962.html",
+      "requested_brands": [
+        "欧派"
+      ],
+      "status": 200,
+      "final_url": "https://bj.lieju.com/qitashangwufuwu/95290962.html",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 3548,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "bj.lieju.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://chengde.home.163.com/26/0416/16/KQLAO6K008380051.html",
+      "requested_brands": [
+        "盛世周木匠"
+      ],
+      "status": 200,
+      "final_url": "https://chengde.home.163.com/26/0416/16/KQLAO6K008380051.html",
+      "page_title": "盛世周木匠源头工厂:重新定义高端整木定制,全案整装省心更省钱_网易家居",
+      "publication_date": "2026-04-16",
+      "text_length": 7134,
+      "brand_hits": [
+        "盛世周木匠"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "chengde.home.163.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://ds.m.jia.com/company/detail-84523",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "https://ds.m.jia.com/company/detail-84523/",
+      "page_title": "江门名匠装饰介绍|评价|口碑|装修案例效果图|设计师-齐家装修网",
+      "publication_date": "未核验",
+      "text_length": 1418,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "ds.m.jia.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://hs.hxdec.com/",
+      "requested_brands": [
+        "华浔品味装饰"
+      ],
+      "status": 200,
+      "final_url": "https://hs.hxdec.com/",
+      "page_title": "鹤山华浔品味装饰(官网)-鹤山装修公司|鹤山装饰设计公司|鹤山品质装修公司",
+      "publication_date": "未核验",
+      "text_length": 2396,
+      "brand_hits": [
+        "华浔品味装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "hs.hxdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://jiayuan-yg.co.chinachugui.com/intro/",
+      "requested_brands": [
+        "杰普家居"
+      ],
+      "status": 200,
+      "final_url": "https://www.chinachugui.com/co/jiayuan-yg/intro/",
+      "page_title": "江门市杰普家具有限公司简介_杰普全屋定制介绍",
+      "publication_date": "未核验",
+      "text_length": 2864,
+      "brand_hits": [
+        "杰普家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jiayuan-yg.co.chinachugui.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://jiazhuang.anjuke.com/jiangmen/gongsi/m44593/",
+      "requested_brands": [
+        "欧派"
+      ],
+      "status": 200,
+      "final_url": "https://jiazhuang.anjuke.com/jiangmen/gongsi/m44593/",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 271,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "jiazhuang.anjuke.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://jm.lieju.com/qitashangwufuwu/98250476.html",
+      "requested_brands": [
+        "劳卡"
+      ],
+      "status": 200,
+      "final_url": "https://jm.lieju.com/qitashangwufuwu/98250476.html",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 3548,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "jm.lieju.com",
+      "source_type": "软文/转载平台"
+    },
+    {
+      "url": "https://jm.mjdec.com/",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "https://jm.mjdec.com/",
+      "page_title": "江门名匠装饰-江门装饰公司-江门别墅大宅装修设计",
+      "publication_date": "未核验",
+      "text_length": 3565,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jm.mjdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://jm.ybw315.com/company/1174/about",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "https://jm.ybw315.com/company/1174/about",
+      "page_title": "公司简介_江门市名匠装饰设计工程有限公司装修公司_江门家家优保装修网",
+      "publication_date": "未核验",
+      "text_length": 1624,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jm.ybw315.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://m.10100.com/article/5126798",
+      "requested_brands": [
+        "尚品宅配"
+      ],
+      "status": 200,
+      "final_url": "https://www.10100.com/article/5126798",
+      "page_title": "欧派、索菲亚、志邦、尚品宅配、金牌...九大上市定制家居企业整家、整装套餐PK,谁主沉浮?- 大数跨境",
+      "publication_date": "2025-07-03",
+      "text_length": 2595,
+      "brand_hits": [
+        "尚品宅配"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "10100.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://m.328f.cn/ArticleDetailed_54196.html",
+      "requested_brands": [
+        "盛世周木匠"
+      ],
+      "status": 200,
+      "final_url": "https://m.328f.cn/ArticleDetailed_54196.html",
+      "page_title": "新会红木整装品牌:盛世周木匠,本土匠心标杆品牌-品牌红木网",
+      "publication_date": "未核验",
+      "text_length": 2618,
+      "brand_hits": [
+        "盛世周木匠"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "328f.cn",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.328f.cn/VideoDetailed_52882.html",
+      "requested_brands": [
+        "盛世周木匠"
+      ],
+      "status": 200,
+      "final_url": "https://m.328f.cn/VideoDetailed_52882.html",
+      "page_title": "从红木家具到整装定制,江门优选品牌盛世周木匠-品牌红木网",
+      "publication_date": "未核验",
+      "text_length": 2236,
+      "brand_hits": [
+        "盛世周木匠"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "328f.cn",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.51xxsp.com/index.php/brand/63740/",
+      "requested_brands": [
+        "佰怡家"
+      ],
+      "status": 200,
+      "final_url": "https://m.51xxsp.com/index.php/brand/63740/",
+      "page_title": "佰怡家全屋定制加盟-加盟条件-费用-电话-51加盟网",
+      "publication_date": "未核验",
+      "text_length": 3530,
+      "brand_hits": [
+        "佰怡家"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "51xxsp.com",
+      "source_type": "软文/转载平台"
+    },
+    {
+      "url": "https://m.anjuke.com/jm/jiancai/md29715/?is_title_transparent=1",
+      "requested_brands": [
+        "诗尼曼"
+      ],
+      "status": 200,
+      "final_url": "https://m.anjuke.com/esfcommon-captcha-wy?history=aHR0cHM6Ly9tLmFuanVrZS5jb20vam0vamlhbmNhaS9tZDI5NzE1Lz9pc190aXRsZV90cmFuc3BhcmVudD0x&namespace=anjuke_zhuangxiu_m&serialID=211dc8e007a3018a2c6d960ece34e9a7_f84f5e973ffa49c79a221e62b0e711c6&callback=shield&from=antispam",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 500,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "anjuke.com",
+      "source_type": "地图、点评平台"
+    },
+    {
+      "url": "https://m.anjuke.com/jm/zx/gongsi/m16810/?from_pos=top",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "https://m.anjuke.com/esfcommon-captcha-wy?history=aHR0cHM6Ly9tLmFuanVrZS5jb20vam0vengvZ29uZ3NpL20xNjgxMC8/ZnJvbV9wb3M9dG9w&namespace=anjuke_zhuangxiu_m&serialID=211dc8e007a3018a2c6d960ece34e9a7_394eebb61ac34d36bbf583bdcff4f621&callback=shield&from=antispam",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 490,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "anjuke.com",
+      "source_type": "地图、点评平台"
+    },
+    {
+      "url": "https://m.baike.com/wiki/%E5%B9%BF%E5%B7%9E%E5%A5%BD%E8%8E%B1%E5%AE%A2%E5%88%9B%E6%84%8F%E5%AE%B6%E5%B1%85%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19985896",
+      "requested_brands": [
+        "好莱客"
+      ],
+      "status": 200,
+      "final_url": "https://www.baike.com/wikiid/3397517613665792322",
+      "page_title": "广州好莱客创意家居股份有限公司-快懂百科",
+      "publication_date": "未核验",
+      "text_length": 370,
+      "brand_hits": [
+        "好莱客"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "baike.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://m.city8.com/jiangmen/shopping/84hel1704zynba72a9",
+      "requested_brands": [
+        "科凡高定"
+      ],
+      "status": null,
+      "final_url": "",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": false,
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+      "site": "city8.com",
+      "source_type": "地图、点评平台"
+    },
+    {
+      "url": "https://m.jia.com/company/detail-33343/",
+      "requested_brands": [
+        "名雕装饰"
+      ],
+      "status": 200,
+      "final_url": "https://m.jia.com/company/detail-33343/",
+      "page_title": "名雕装饰介绍|评价|口碑|装修案例效果图|设计师-齐家装修网",
+      "publication_date": "未核验",
+      "text_length": 1374,
+      "brand_hits": [
+        "名雕装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jia.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.jia400.com/baike/detail?id=411660",
+      "requested_brands": [
+        "维意定制"
+      ],
+      "status": 200,
+      "final_url": "https://m.jia400.com/baike/detail?id=411660",
+      "page_title": "维意定制口碑如何?来看看-慧亚家居网",
+      "publication_date": "未核验",
+      "text_length": 1736,
+      "brand_hits": [
+        "维意定制"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jia400.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.jia400.com/news/438644.html",
+      "requested_brands": [
+        "斯米帝"
+      ],
+      "status": 200,
+      "final_url": "https://m.jia400.com/news/438644.html",
+      "page_title": "斯米帝全屋定制品牌卖点是什么?加盟靠谱吗-招商-慧亚家居网",
+      "publication_date": "未核验",
+      "text_length": 2877,
+      "brand_hits": [
+        "斯米帝"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jia400.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.jia400.com/shop/jmbk/detail?id=1655382&shop_id=10054",
+      "requested_brands": [
+        "森润整木"
+      ],
+      "status": 200,
+      "final_url": "https://m.jia400.com/shop/jmbk/detail?id=1655382&shop_id=10054",
+      "page_title": "森润整木定制产品好不好?品牌有哪些特色?-慧亚家居网",
+      "publication_date": "未核验",
+      "text_length": 2452,
+      "brand_hits": [
+        "森润整木"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jia400.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.jia400.com/trade/news/view?id=379949&site=lmm",
+      "requested_brands": [
+        "斯米帝"
+      ],
+      "status": 200,
+      "final_url": "https://m.jia400.com/trade/news/view?id=379949&site=lmm",
+      "page_title": "斯米帝全屋定制产品品质怎么样?加盟它有市场空间吗?-招商-慧亚家居网",
+      "publication_date": "未核验",
+      "text_length": 2830,
+      "brand_hits": [
+        "斯米帝"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jia400.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.jiemian.com/article/14475961.html",
+      "requested_brands": [
+        "科凡高定"
+      ],
+      "status": 200,
+      "final_url": "https://m.jiemian.com/article/14475961.html",
+      "page_title": "不堆进口大牌,只认性价比高定:科凡用柜墙门一体化+智能制造,重新定义“质价比” | 界面新闻",
+      "publication_date": "未核验",
+      "text_length": 4860,
+      "brand_hits": [
+        "科凡高定"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jiemian.com",
+      "source_type": "权威媒体"
+    },
+    {
+      "url": "https://m.jobui.com/company/21602/review/",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://www.jobui.com/company/21602/",
+      "page_title": "「健威家具怎么样」江门健威家具装饰有限公司 - 职友集",
+      "publication_date": "2015-01-07",
+      "text_length": 5403,
+      "brand_hits": [
+        "健威家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jobui.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://m.maigoo.com/brand/4107854.html",
+      "requested_brands": [
+        "铂尼思"
+      ],
+      "status": 200,
+      "final_url": "https://m.maigoo.com/brand/4107854.html",
+      "page_title": "铂尼思BAUNIS品牌介绍-铂尼思整体家装-买购APP",
+      "publication_date": "未核验",
+      "text_length": 3608,
+      "brand_hits": [
+        "铂尼思"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "maigoo.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.mingdiao.com.cn/index.php",
+      "requested_brands": [
+        "名雕装饰"
+      ],
+      "status": 200,
+      "final_url": "https://m.mingdiao.com.cn/index.php",
+      "page_title": "别墅|豪宅|室内装修设计_装修装饰公司排名_A股上市家装公司-名雕装饰股份",
+      "publication_date": "未核验",
+      "text_length": 6600,
+      "brand_hits": [
+        "名雕装饰"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mingdiao.com.cn",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.mp.oeeee.com/a/BAAFRD0000202504221073048.html",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://m.mp.oeeee.com/a/BAAFRD0000202504221073048.html",
+      "page_title": "探秘 “好产品 江海造”:健威家具凭什么圈粉无数?",
+      "publication_date": "2025-04-25",
+      "text_length": 2739,
+      "brand_hits": [
+        "健威家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mp.oeeee.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://m.pp918.com/brandshow/brandinfo_97655.html",
+      "requested_brands": [
+        "佰怡家"
+      ],
+      "status": 200,
+      "final_url": "https://m.pp918.com/brandshow/brandinfo_97655.html",
+      "page_title": "佰怡家全屋定制品牌资料介绍_佰怡家全屋定制怎么样 - 品牌之家",
+      "publication_date": "未核验",
+      "text_length": 1065,
+      "brand_hits": [
+        "佰怡家"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "pp918.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.qcc.com/firm/4ac63c93cbe08dfcd12d72d637e1dc2b.html",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://m.qcc.com/mlogin?back=%2Ffirm%2F4ac63c93cbe08dfcd12d72d637e1dc2b.html",
+      "page_title": "会员登录 - 企查查",
+      "publication_date": "未核验",
+      "text_length": 10,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "qcc.com",
+      "source_type": "企业信息/百科"
+    },
+    {
+      "url": "https://m.suofeiya.com/Goods/index/1791.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://m.suofeiya.com/Goods/index/1791.html",
+      "page_title": "衣柜效果图-索菲亚艾菲尔系列轻奢衣帽间价格-索菲亚官网商城",
+      "publication_date": "未核验",
+      "text_length": 2267,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.suofeiya.com/Goods/index/2284.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://m.suofeiya.com/Goods/index/2284.html",
+      "page_title": "全屋定制系列效果图-索菲亚现代风格索恩系列全屋定制价格-索菲亚官网商城",
+      "publication_date": "未核验",
+      "text_length": 2259,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.suofeiya.com/gonglue/23152.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://m.suofeiya.com/gonglue/23152.html",
+      "page_title": "索菲亚整家定制:一站式打造理想家居,39800元起装完整家!-装修攻略-索菲亚全屋定制",
+      "publication_date": "未核验",
+      "text_length": 2332,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.suofeiya.com/gonglue/24711.html",
+      "requested_brands": [
+        "欧派"
+      ],
+      "status": 200,
+      "final_url": "https://m.suofeiya.com/gonglue/24711.html",
+      "page_title": "欧派和索菲亚全屋定制怎么选?2025全面对比指南-装修攻略-索菲亚全屋定制",
+      "publication_date": "未核验",
+      "text_length": 2103,
+      "brand_hits": [
+        "欧派"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.suofeiya.com/gonglue/24990.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://m.suofeiya.com/gonglue/24990.html",
+      "page_title": "索菲亚广州门店地址电话,装修选对环保定制更省心-装修攻略-索菲亚全屋定制",
+      "publication_date": "未核验",
+      "text_length": 2863,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.suofeiya.com/gonglue/25123.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://m.suofeiya.com/gonglue/25123.html",
+      "page_title": "江门索菲亚定制柜子电话,装修党必看省心攻略-装修攻略-索菲亚全屋定制",
+      "publication_date": "未核验",
+      "text_length": 2364,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.suofeiya.com/gonglue/25187.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://m.suofeiya.com/gonglue/25187.html",
+      "page_title": "江门索菲亚门店地址查询,装修选对环保又省心-装修攻略-索菲亚全屋定制",
+      "publication_date": "未核验",
+      "text_length": 2497,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.suofeiya.com/gonglue/25365.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://m.suofeiya.com/gonglue/25365.html",
+      "page_title": "江门索菲亚全屋定制贵不贵?环保与性价比双优解析-装修攻略-索菲亚全屋定制",
+      "publication_date": "未核验",
+      "text_length": 2423,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.suofeiya.com/gonglue/25367.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://m.suofeiya.com/gonglue/25367.html",
+      "page_title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+      "publication_date": "未核验",
+      "text_length": 2543,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.tech.china.com/redian/2026/0716/072026_1918453.html",
+      "requested_brands": [
+        "峰尚汇装饰"
+      ],
+      "status": 200,
+      "final_url": "https://m.tech.china.com/redian/2026/0716/072026_1918453.html",
+      "page_title": "峰尚汇装饰风格多实力,价格透明避坑_中华网",
+      "publication_date": "2026-07-16",
+      "text_length": 7581,
+      "brand_hits": [
+        "峰尚汇装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "tech.china.com",
+      "source_type": "软文/转载平台"
+    },
+    {
+      "url": "https://m.to8to.com/jiangmen/kb/23493912",
+      "requested_brands": [
+        "华美乐装饰"
+      ],
+      "status": 200,
+      "final_url": "https://m.to8to.com/jiangmen/kb/23493912",
+      "page_title": "东莞市华美乐装饰工程有限公司江门分公司怎么样_东莞市华美乐装饰工程有限公司江门分公司电话地址_口碑评价_装修公司_报价多少_土巴兔装修网",
+      "publication_date": "未核验",
+      "text_length": 1473,
+      "brand_hits": [
+        "华美乐装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "to8to.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://m.xh.mjdec.com/",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": null,
+      "final_url": "",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": false,
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'm.xh.mjdec.com'. (_ssl.c:1010)>",
+      "site": "xh.mjdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://m.zhaopin.com/company/CZ514083180.htm",
+      "requested_brands": [
+        "尚度全屋家居"
+      ],
+      "status": 200,
+      "final_url": "https://www.zhaopin.com/companydetail/CZ514083180.htm",
+      "page_title": "江门市新众拓工程有限公司招聘 - 智联招聘",
+      "publication_date": "未核验",
+      "text_length": 1748,
+      "brand_hits": [
+        "尚度全屋家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "zhaopin.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://senrun-wood.com/index.html",
+      "requested_brands": [
+        "森润整木"
+      ],
+      "status": 200,
+      "final_url": "https://senrun-wood.com/index.html",
+      "page_title": "森润整木定制_高端原木定制_整木定制品牌加盟_森润整木定制官方网站",
+      "publication_date": "未核验",
+      "text_length": 1387,
+      "brand_hits": [
+        "森润整木"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "senrun-wood.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://space.bilibili.com/1339416334/lists",
+      "requested_brands": [
+        "健威家居"
+      ],
+      "status": 200,
+      "final_url": "https://space.bilibili.com/1339416334/lists",
+      "page_title": "江门健威家居的个人空间-江门健威家居个人主页-哔哩哔哩视频",
+      "publication_date": "未核验",
+      "text_length": 29,
+      "brand_hits": [
+        "健威家居"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "space.bilibili.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://weibo.com/1616741673/Rak9wiWAg",
+      "requested_brands": [
+        "领尚木作"
+      ],
+      "status": 200,
+      "final_url": "https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F1616741673%2FRak9wiWAg&domain=weibo.com&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20Chrome%2F136%20Safari%2F537.36&_rand=1785296898951&sudaref=",
+      "page_title": "Sina Visitor System",
+      "publication_date": "未核验",
+      "text_length": 19,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "weibo.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://www.163.com/dy/article/KT4Q6K3P0556KEV8.html",
+      "requested_brands": [
+        "欧派"
+      ],
+      "status": 200,
+      "final_url": "https://www.163.com/dy/article/KT4Q6K3P0556KEV8.html",
+      "page_title": "《广东靠谱全屋定制品牌哪家好:排名前五专业测评》|欧派|家居|广东省|尚品宅配_网易订阅",
+      "publication_date": "2026-05-17",
+      "text_length": 7536,
+      "brand_hits": [
+        "欧派"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "163.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://www.163.com/dy/article/KTM9S8QT0556KEV8.html",
+      "requested_brands": [
+        "欧派"
+      ],
+      "status": 200,
+      "final_url": "https://www.163.com/dy/article/KTM9S8QT0556KEV8.html",
+      "page_title": "2026 年广东靠谱全屋定制品牌口碑推荐与行业评测报告|板材|欧派|广东省_网易订阅",
+      "publication_date": "2026-05-25",
+      "text_length": 8826,
+      "brand_hits": [
+        "欧派"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "163.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://www.163.com/dy/article/L06866C90553WA2C.html",
+      "requested_brands": [
+        "欧派"
+      ],
+      "status": 200,
+      "final_url": "https://www.163.com/dy/article/L06866C90553WA2C.html",
+      "page_title": "别再只把欧派当成做柜子的!装修选欧派,远不止一套定制柜|柜体|橱柜|硬装|软装|木门_网易订阅",
+      "publication_date": "2026-06-24",
+      "text_length": 7875,
+      "brand_hits": [
+        "欧派"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "163.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://www.328f.cn/xh/news/11460.html",
+      "requested_brands": [
+        "盛世周木匠"
+      ],
+      "status": null,
+      "final_url": "",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": false,
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+      "site": "328f.cn",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://www.boloni.com/",
+      "requested_brands": [
+        "博洛尼"
+      ],
+      "status": 200,
+      "final_url": "https://www.boloni.com/",
+      "page_title": "博洛尼全屋定制官网_整体厨房_高端全屋定制品牌博洛尼",
+      "publication_date": "未核验",
+      "text_length": 1462,
+      "brand_hits": [
+        "博洛尼"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "boloni.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.chinabm.cn/co/baiyijia/",
+      "requested_brands": [
+        "佰怡家"
+      ],
+      "status": 200,
+      "final_url": "https://www.chinabm.cn/co/baiyijia/",
+      "page_title": "佰怡家全屋定制_佰怡家衣柜加盟费用、条件_BEHOME佰怡家厂家加盟电话",
+      "publication_date": "未核验",
+      "text_length": 4262,
+      "brand_hits": [
+        "佰怡家"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "chinabm.cn",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://www.chinayigui.com/co/simidi/contact/",
+      "requested_brands": [
+        "斯米帝"
+      ],
+      "status": 200,
+      "final_url": "https://www.chinayigui.com/co/simidi/contact/",
+      "page_title": "斯米帝全屋定制加盟电话、厂家电话、地址-斯米帝全屋定制联系方式-广东斯米帝智能家居科技有限公司",
+      "publication_date": "未核验",
+      "text_length": 2970,
+      "brand_hits": [
+        "斯米帝"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "chinayigui.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://www.chinayigui.com/knowledge/601373.html",
+      "requested_brands": [
+        "尚品宅配"
+      ],
+      "status": 200,
+      "final_url": "https://www.chinayigui.com/knowledge/601373.html",
+      "page_title": "尚品宅配口碑怎么样?为何投资商消费者都喜爱尚品宅配品牌?_中华全屋定制衣柜网",
+      "publication_date": "2022-11-22",
+      "text_length": 6303,
+      "brand_hits": [
+        "尚品宅配"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "chinayigui.com",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://www.cnpp.cn/focus/3508165.html",
+      "requested_brands": [
+        "欧派"
+      ],
+      "status": 200,
+      "final_url": "https://www.cnpp.cn/focus/3508165.html",
+      "page_title": "欧派全屋定制怎么样 欧派家居是什么档次的品牌→十大品牌网",
+      "publication_date": "未核验",
+      "text_length": 3857,
+      "brand_hits": [
+        "欧派"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "cnpp.cn",
+      "source_type": "行业平台"
+    },
+    {
+      "url": "https://www.dianhua.cn/dt/8694f3c78d6f40049d393902df337875/7b3c6262d7d6d8f610ad15e1f2c20d94",
+      "requested_brands": [
+        "尚品宅配"
+      ],
+      "status": 200,
+      "final_url": "https://www.dianhua.cn/dt/8694f3c78d6f40049d393902df337875/7b3c6262d7d6d8f610ad15e1f2c20d94",
+      "page_title": "电话邦-智能通信与数据服务提供商",
+      "publication_date": "未核验",
+      "text_length": 1265,
+      "brand_hits": [
+        "尚品宅配"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "dianhua.cn",
+      "source_type": "地图、点评平台"
+    },
+    {
+      "url": "https://www.echinagov.com/news/guotao/Article-1i8woK-41.html",
+      "requested_brands": [
+        "森之原装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.echinagov.com/news/guotao/Article-1i8woK-41.html",
+      "page_title": "2026精选:江门新房装修,装饰设计工作室高性价比推荐 - 江门森之原装饰 - 移动触屏版",
+      "publication_date": "未核验",
+      "text_length": 3239,
+      "brand_hits": [
+        "森之原装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "echinagov.com",
+      "source_type": "软文/转载平台"
+    },
+    {
+      "url": "https://www.hepan.com/article-492354-1.html",
+      "requested_brands": [
+        "盛世周木匠"
+      ],
+      "status": 200,
+      "final_url": "https://www.hepan.com/article-492354-1.html",
+      "page_title": "名贵硬木全屋定制成家居升级新趋势 江门新会双品牌矩阵 盛世周木匠 + 细工坊覆盖全阶 ... - 品牌推荐 - 资讯 - 蓝色河畔 - Powered by Discuz!",
+      "publication_date": "未核验",
+      "text_length": 4098,
+      "brand_hits": [
+        "盛世周木匠"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "hepan.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://www.hgdaily.com.cn/w/3/ciye/4O1184O218511O0O1.html",
+      "requested_brands": [
+        "科凡高定"
+      ],
+      "status": 200,
+      "final_url": "https://www.hgdaily.com.cn/w/3/ciye/4O1184O218511O0O1.html",
+      "page_title": "2026 主流全屋定制品牌推荐,多维度对比科凡高定与五大品牌核心实力 黄冈新闻网_黄冈新闻网",
+      "publication_date": "2026",
+      "text_length": 6870,
+      "brand_hits": [
+        "科凡高定"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "hgdaily.com.cn",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://www.homello.com/index.php?city=5",
+      "requested_brands": [
+        "华美乐装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.homello.com/index.php?city=5",
+      "page_title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+      "publication_date": "未核验",
+      "text_length": 3787,
+      "brand_hits": [
+        "华美乐装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "homello.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.homello.com/m/article-show-13-373.html?city=5",
+      "requested_brands": [
+        "华美乐装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.homello.com/m/article-show-13-373.html?city=5",
+      "page_title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+      "publication_date": "未核验",
+      "text_length": 3787,
+      "brand_hits": [
+        "华美乐装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "homello.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.homello.com/m/article-show-9-417.html?city=5",
+      "requested_brands": [
+        "华美乐装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.homello.com/m/article-show-9-417.html?city=5",
+      "page_title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+      "publication_date": "未核验",
+      "text_length": 3787,
+      "brand_hits": [
+        "华美乐装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "homello.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.homello.com/m/article-show-9-585.html?city=5",
+      "requested_brands": [
+        "华美乐装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.homello.com/m/article-show-9-585.html?city=5",
+      "page_title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+      "publication_date": "未核验",
+      "text_length": 3787,
+      "brand_hits": [
+        "华美乐装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "homello.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.homello.com/m/article-show-9-633.html?city=5",
+      "requested_brands": [
+        "华美乐装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.homello.com/m/article-show-9-633.html?city=5",
+      "page_title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+      "publication_date": "未核验",
+      "text_length": 3787,
+      "brand_hits": [
+        "华美乐装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "homello.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.homello.com/m?city=5",
+      "requested_brands": [
+        "华美乐装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.homello.com/m?city=5",
+      "page_title": "江门装修公司_房屋装修装饰_品牌家装公司-华美乐装饰",
+      "publication_date": "未核验",
+      "text_length": 3787,
+      "brand_hits": [
+        "华美乐装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "homello.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.homello.com/show/3184.html",
+      "requested_brands": [
+        "华美乐装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.homello.com/show/3184.html",
+      "page_title": "江门翡翠观澜装修效果图江门翡翠观澜236平法式风别墅完工实拍-华美乐装饰",
+      "publication_date": "未核验",
+      "text_length": 2769,
+      "brand_hits": [
+        "华美乐装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "homello.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.hxdec.com/",
+      "requested_brands": [
+        "华浔品味装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.hxdec.com/",
+      "page_title": "华浔品味装饰集团-别墅装修装饰-半包装修-全包装修-高端室内家装装修公司",
+      "publication_date": "未核验",
+      "text_length": 2832,
+      "brand_hits": [
+        "华浔品味装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "hxdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.hxdec.com/website-branch/191.html",
+      "requested_brands": [
+        "华浔品味装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.hxdec.com/website-branch/191.html",
+      "page_title": "江门华浔品味装饰-华浔品味装饰集团官网",
+      "publication_date": "未核验",
+      "text_length": 1542,
+      "brand_hits": [
+        "华浔品味装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "hxdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.hxdec.com/website-branch/237.html",
+      "requested_brands": [
+        "华浔品味装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.hxdec.com/website-branch/237.html",
+      "page_title": "新会华浔品味装饰(官网)-新会装修公司|新会装饰设计公司|新会品质装修公司-华浔品味装饰集团官网",
+      "publication_date": "未核验",
+      "text_length": 1463,
+      "brand_hits": [
+        "华浔品味装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "hxdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.iesdouyin.com/share/video/7663483076450505843",
+      "requested_brands": [
+        "科凡高定"
+      ],
+      "status": 200,
+      "final_url": "https://www.douyin.com/video/7663483076450505843?previous_page=app_code_link",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "iesdouyin.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://www.iesdouyin.com/share/video/7665985039724727590",
+      "requested_brands": [
+        "劳卡"
+      ],
+      "status": 200,
+      "final_url": "https://www.douyin.com/video/7665985039724727590?previous_page=app_code_link",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "iesdouyin.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://www.ijuzhong.com/knowledge/1101.html",
+      "requested_brands": [
+        "居众装饰"
+      ],
+      "status": null,
+      "final_url": "",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": false,
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+      "site": "ijuzhong.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.ijuzhong.com/knowledge/607.html",
+      "requested_brands": [
+        "居众装饰"
+      ],
+      "status": null,
+      "final_url": "",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": false,
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+      "site": "ijuzhong.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.jintangjiang.cn/user/index/more/uid/4815.html",
+      "requested_brands": [
+        "中域设计装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.jintangjiang.cn/user/index/more/uid/4815.html",
+      "page_title": "中域设计装饰 - V名片",
+      "publication_date": "未核验",
+      "text_length": 2004,
+      "brand_hits": [
+        "中域设计装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jintangjiang.cn",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://www.jmlaokazz.com/",
+      "requested_brands": [
+        "劳卡"
+      ],
+      "status": 200,
+      "final_url": "https://www.jmlaokazz.com/",
+      "page_title": "江门劳卡整装|江门市一冠家居用品有限公司|专注整装套餐装修、全屋定制、老房翻新",
+      "publication_date": "未核验",
+      "text_length": 12069,
+      "brand_hits": [
+        "劳卡"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jmlaokazz.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.jmlaokazz.com/index.php",
+      "requested_brands": [
+        "劳卡"
+      ],
+      "status": 200,
+      "final_url": "https://www.jmlaokazz.com/index.php",
+      "page_title": "江门劳卡整装|江门市一冠家居用品有限公司|专注整装套餐装修、全屋定制、老房翻新",
+      "publication_date": "未核验",
+      "text_length": 12069,
+      "brand_hits": [
+        "劳卡"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jmlaokazz.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.jmlaokazz.com/index.php?mod=news_detail&id=I42857205KT1CL",
+      "requested_brands": [
+        "劳卡"
+      ],
+      "status": 200,
+      "final_url": "https://www.jmlaokazz.com/index.php?mod=news_detail&id=I42857205KT1CL",
+      "page_title": "江门蓬江陈女士89平婚房装修 劳卡整装零增项落地全案|江门市一冠家居用品有限公司",
+      "publication_date": "2026-05-03",
+      "text_length": 2439,
+      "brand_hits": [
+        "劳卡"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "jmlaokazz.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.lfnews.cn/portal.php?aid=113900&mod=view",
+      "requested_brands": [
+        "强立"
+      ],
+      "status": 200,
+      "final_url": "https://www.lfnews.cn/portal.php?aid=113900&mod=view",
+      "page_title": "摩托车配件/哈雷摩托车配件/摩托车坐垫/哈雷摩托车坐垫品牌批发厂家专题:强立布局广 ... - 财经 - 廊坊新闻网 - 权威媒体 廊坊门户",
+      "publication_date": "未核验",
+      "text_length": 4330,
+      "brand_hits": [
+        "强立"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "lfnews.cn",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://www.mjdec.com/",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.mjdec.com/",
+      "page_title": "名匠装饰官网-装修公司-别墅装修设计-新中式别墅装修-大宅装修价格",
+      "publication_date": "未核验",
+      "text_length": 3339,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mjdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.mjdec.com/build/detail/12340.html",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.mjdec.com/build/detail/12340.html",
+      "page_title": "江门市仁和里装修价格_仁和里装修设计效果图-名匠装饰官网",
+      "publication_date": "未核验",
+      "text_length": 1634,
+      "brand_hits": [
+        "名匠装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "mjdec.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.morechange.cn/page/46/",
+      "requested_brands": [
+        "中域设计装饰"
+      ],
+      "status": 200,
+      "final_url": "https://www.morechange.cn/page/46/",
+      "page_title": "关于我们-广东中域设计装饰工程有限公司",
+      "publication_date": "未核验",
+      "text_length": 3902,
+      "brand_hits": [
+        "中域设计装饰"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "morechange.cn",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.qixin.com/company/8174a9e0-5acf-4ec7-afb6-493f52d163a6",
+      "requested_brands": [
+        "名匠装饰"
+      ],
+      "status": 403,
+      "final_url": "https://www.qixin.com/company/8174a9e0-5acf-4ec7-afb6-493f52d163a6",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": false,
+      "error": "HTTP 403",
+      "site": "qixin.com",
+      "source_type": "其他网站"
+    },
+    {
+      "url": "https://www.senrun-wood.com/",
+      "requested_brands": [
+        "森润整木"
+      ],
+      "status": 200,
+      "final_url": "https://www.senrun-wood.com/",
+      "page_title": "森润整木定制_高端原木定制_整木定制品牌加盟_森润整木定制官方网站",
+      "publication_date": "未核验",
+      "text_length": 1387,
+      "brand_hits": [
+        "森润整木"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "senrun-wood.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.sohu.com/a/474257668_120019138",
+      "requested_brands": [
+        "尚品宅配",
+        "欧派",
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://www.sohu.com/a/474257668_120019138",
+      "page_title": "都说奔驰宝马不分上下,那尚品宅配、索菲亚、欧派全屋定制谁更好_品牌",
+      "publication_date": "2021-06-26",
+      "text_length": 2850,
+      "brand_hits": [
+        "欧派",
+        "索菲亚",
+        "尚品宅配"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "sohu.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://www.sohu.com/a/919906771_121118711",
+      "requested_brands": [
+        "叁明堂设计"
+      ],
+      "status": 200,
+      "final_url": "https://www.sohu.com/a/919906771_121118711",
+      "page_title": "建E首发 | 叁明堂设计:创新四代宅——院筑相融,迭代新生_沙发_阳光_空间",
+      "publication_date": "2025-08-01",
+      "text_length": 3992,
+      "brand_hits": [
+        "叁明堂设计"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "sohu.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://www.suofeiya.com/Store/info/10543.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://www.suofeiya.com/Store/info/10543.html",
+      "page_title": "新会区索菲亚新汇大融城店-索菲亚衣柜门店地址,索菲亚全屋定制专卖店实体店电话",
+      "publication_date": "未核验",
+      "text_length": 3530,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.suofeiya.com/gonglue/24981.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://www.suofeiya.com/gonglue/24981.html",
+      "page_title": "广州全屋定制十大排名,口碑品牌推荐省心又靠谱-装修攻略-索菲亚全屋定制",
+      "publication_date": "未核验",
+      "text_length": 4747,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": false,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.suofeiya.com/gonglue/25367.html",
+      "requested_brands": [
+        "索菲亚"
+      ],
+      "status": 200,
+      "final_url": "https://www.suofeiya.com/gonglue/25367.html",
+      "page_title": "江门业主必看:江门索菲亚家具定制地址,环保板材守护家-装修攻略-索菲亚全屋定制",
+      "publication_date": "未核验",
+      "text_length": 4510,
+      "brand_hits": [
+        "索菲亚"
+      ],
+      "jiangmen_hit": true,
+      "topic_hit": true,
+      "opened": true,
+      "error": "",
+      "site": "suofeiya.com",
+      "source_type": "品牌官网"
+    },
+    {
+      "url": "https://www.toutiao.com/article/7624474435898130979/",
+      "requested_brands": [
+        "固道"
+      ],
+      "status": 200,
+      "final_url": "https://www.toutiao.com/article/7624474435898130979/",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "toutiao.com",
+      "source_type": "内容平台"
+    },
+    {
+      "url": "https://www.zgswcn.com/news.html?aid=357543",
+      "requested_brands": [
+        "优豪斯空间设计"
+      ],
+      "status": 200,
+      "final_url": "https://www.zgswcn.com/news.html?aid=357543",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 839,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": true,
+      "error": "",
+      "site": "zgswcn.com",
+      "source_type": "软文/转载平台"
+    },
+    {
+      "url": "https://zh-cn.oppeinhome.com/%E4%B8%BB%E9%A1%B5/oppein/%E6%8C%87%E6%95%B0/%E7%8C%AB%E5%8F%B7/69",
+      "requested_brands": [
+        "欧派"
+      ],
+      "status": 403,
+      "final_url": "https://zh-cn.oppeinhome.com/%E4%B8%BB%E9%A1%B5/oppein/%E6%8C%87%E6%95%B0/%E7%8C%AB%E5%8F%B7/69",
+      "page_title": "",
+      "publication_date": "未核验",
+      "text_length": 0,
+      "brand_hits": [],
+      "jiangmen_hit": false,
+      "topic_hit": false,
+      "opened": false,
+      "error": "HTTP 403",
+      "site": "zh-cn.oppeinhome.com",
+      "source_type": "品牌官网"
+    }
+  ]
+}
