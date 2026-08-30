@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEO AI 可见性基线"
+  short_description: "Auditable AI platform brand visibility baselines"
+  default_prompt: "Use $geo-ai-visibility-baseline to run an evidence-preserving AI search visibility baseline for my target brand."
