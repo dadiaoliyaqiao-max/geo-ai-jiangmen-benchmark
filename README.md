@@ -54,6 +54,8 @@ Copy-Item -Recurse ".\skills\geo-ai-visibility-baseline" "$env:USERPROFILE\.code
 
 完整的人工作业说明见 [`docs/WORKFLOW.md`](docs/WORKFLOW.md)。
 
+同事可以在自己的本地副本中自由新增、删除、改写或重排搜索问题，并以新的日期批次执行。每轮测试开始前应先确认问题库；开始采集后应固定该版本，避免中途改题导致不同平台结果不可比较。
+
 在任意项目中，`target_recommended` 表示“本次目标品牌是否进入正式推荐或候选名单”。当目标品牌设置为健威家居时，它就是“是否推荐健威家居”。单纯提到品牌但未将其列入推荐名单，只计为提及。
 
 ## 2026-07-29 基线

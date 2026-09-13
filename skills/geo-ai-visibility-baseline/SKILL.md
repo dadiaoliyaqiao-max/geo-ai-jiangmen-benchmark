@@ -18,7 +18,7 @@ Before collecting answers, resolve these inputs from the request or existing pro
 - definitions for mention, recommendation, rank, TOP1/TOP3, strength, and property/project association;
 - required spreadsheet sheets, report sections, screenshots, and filenames.
 
-Do not silently rewrite the question bank. If a provided parser changes a prompt, fix the parser, preserve affected attempts, and retest the exact original question.
+The question bank is user-configurable before a new run. Let the user create, replace, add, delete, reorder, or rewrite questions in their local copy, then confirm the resulting bank as part of that run's contract. Once collection starts, freeze that version: do not silently rewrite it. If a provided parser changes a frozen prompt, fix the parser, preserve affected attempts, and retest the exact contracted question.
 
 For a new run, read [references/run-layout-and-schema.md](references/run-layout-and-schema.md), then use `scripts/init_run.py` when its directory contract fits. Reuse an existing run when the user asks to resume; do not initialize over it.
 
