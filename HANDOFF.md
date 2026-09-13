@@ -1,6 +1,6 @@
 # 项目交接说明
 
-更新日期：2026-08-20
+更新日期：2026-09-13
 
 ## 项目目标
 
@@ -59,6 +59,16 @@
 - 完成度审计：`work/analysis/completion_audit.json`
 - 原始回答：`work/raw/<platform>/q01.json` 至 `q36.json`
 
+## 可复用工作流
+
+- Codex Skill：`skills/geo-ai-visibility-baseline/SKILL.md`
+- 人工作业说明：`docs/WORKFLOW.md`
+- 运行初始化：`skills/geo-ai-visibility-baseline/scripts/init_run.py`
+- 完整性审计：`skills/geo-ai-visibility-baseline/scripts/audit_run.py`
+- 指标汇总：`skills/geo-ai-visibility-baseline/scripts/summarize_records.py`
+
+仓库公开后，其他同事可以下载、克隆或 Fork，并在自己的本地副本中修改；没有被所有者授予写权限的账号不能直接修改原仓库。
+
 ## 后续工作原则
 
 - 不要重新执行已经完成的180次测试，除非用户明确要求做新一轮或复测。
@@ -72,5 +82,5 @@
 
 ## 新电脑启动提示词
 
-请先完整读取 `README.md`、`HANDOFF.md` 和 `AGENTS.md`，然后检查 `work/analysis/three_platform_summary.json`。继续本项目时，不要重复已经完成的180次测试；以现有数据为基线，重点分析豆包、DeepSeek和腾讯元宝。若需复测，应创建带新日期的数据目录并与原基线分开统计。
+请先完整读取 `README.md`、`HANDOFF.md`、`AGENTS.md` 和 `skills/geo-ai-visibility-baseline/SKILL.md`，然后检查 `work/analysis/three_platform_summary.json`。继续本项目时，不要重复已经完成的180次测试；以现有数据为基线，重点分析豆包、DeepSeek和腾讯元宝。若需复测，应创建带新日期的数据目录并与原基线分开统计。
 
